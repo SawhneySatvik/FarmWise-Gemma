@@ -1,0 +1,17 @@
+{
+    "best_model": "RandomForest",
+    "metrics": {
+        "RandomForest": {
+            "accuracy": 0.9931818181818182
+        },
+        "GradientBoosting": {
+            "accuracy": 0.9772727272727273
+        },
+        "SVM": {
+            "accuracy": 0.9568181818181818
+        },
+        "AdaBoost": {
+            "accuracy": 0.9727272727272728
+        }
+    }
+}

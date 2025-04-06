@@ -1,0 +1,30 @@
+# Core framework
+Flask
+Werkzeug
+Flask-JWT-Extended
+Flask-Cors
+Flask-SQLAlchemy
+python-dotenv
+
+# Database
+SQLAlchemy
+alembic
+
+# AI/ML
+google-genai
+google-generativeai
+langchain
+langchain-experimental
+
+Pillow
+
+PyJWT
+requests
+urllib3
+python-dateutil
+pytz
+geopy
+
+# Development
+pytest
+pytest-flask

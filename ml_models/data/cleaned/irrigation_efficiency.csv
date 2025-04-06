@@ -1,0 +1,1866 @@
+Year,State Name,Dist Name,Dist Code_Irrigation,Dist Code_Yield,Dist Code_Efficiency,State Code_Irrigation,State Code_Yield,State Code_Efficiency
+2011,Chhattisgarh,Durg,1,1,0.001,14,14,0.014
+2011,Chhattisgarh,Bastar,2,2,0.002,14,14,0.014
+2011,Chhattisgarh,Raipur,3,3,0.003,14,14,0.014
+2011,Chhattisgarh,Bilaspur,4,4,0.004,14,14,0.014
+2011,Chhattisgarh,Raigarh,5,5,0.005,14,14,0.014
+2011,Chhattisgarh,Surguja,6,6,0.006,14,14,0.014
+2011,Madhya Pradesh,Jabalpur,7,7,0.007,6,6,0.006
+2011,Madhya Pradesh,Balaghat,8,8,0.008,6,6,0.006
+2011,Madhya Pradesh,Chhindwara,9,9,0.009,6,6,0.006
+2011,Madhya Pradesh,Narsinghpur,10,10,0.01,6,6,0.006
+2011,Madhya Pradesh,Seoni / Shivani,11,11,0.011,6,6,0.006
+2011,Madhya Pradesh,Mandla,12,12,0.012,6,6,0.006
+2011,Madhya Pradesh,Sagar,13,13,0.013,6,6,0.006
+2011,Madhya Pradesh,Damoh,14,14,0.014,6,6,0.006
+2011,Madhya Pradesh,Tikamgarh,15,15,0.015,6,6,0.006
+2011,Madhya Pradesh,Chhatarpur,16,16,0.016,6,6,0.006
+2011,Madhya Pradesh,Panna,17,17,0.017,6,6,0.006
+2011,Madhya Pradesh,Rewa,18,18,0.018,6,6,0.006
+2011,Madhya Pradesh,Sidhi,19,19,0.019,6,6,0.006
+2011,Madhya Pradesh,Satna,20,20,0.02,6,6,0.006
+2011,Madhya Pradesh,Shahdol,21,21,0.021,6,6,0.006
+2011,Madhya Pradesh,Gwalior,22,22,0.022,6,6,0.006
+2011,Madhya Pradesh,Shivpuri,23,23,0.023,6,6,0.006
+2011,Madhya Pradesh,Guna,24,24,0.024,6,6,0.006
+2011,Madhya Pradesh,Datia,25,25,0.025,6,6,0.006
+2011,Madhya Pradesh,Morena,26,26,0.026,6,6,0.006
+2011,Madhya Pradesh,Bhind,27,27,0.027,6,6,0.006
+2011,Madhya Pradesh,Indore,28,28,0.028,6,6,0.006
+2011,Madhya Pradesh,Ratlam,29,29,0.029,6,6,0.006
+2011,Madhya Pradesh,Ujjain,30,30,0.03,6,6,0.006
+2011,Madhya Pradesh,Mandsaur,31,31,0.031,6,6,0.006
+2011,Madhya Pradesh,Dewas,32,32,0.032,6,6,0.006
+2011,Madhya Pradesh,Dhar,33,33,0.033,6,6,0.006
+2011,Madhya Pradesh,Jhabua,34,34,0.034,6,6,0.006
+2011,Madhya Pradesh,Sehore,37,37,0.037,6,6,0.006
+2011,Madhya Pradesh,Raisen,38,38,0.038,6,6,0.006
+2011,Madhya Pradesh,Vidisha,39,39,0.039,6,6,0.006
+2011,Madhya Pradesh,Betul,40,40,0.04,6,6,0.006
+2011,Madhya Pradesh,Rajgarh,41,41,0.041,6,6,0.006
+2011,Madhya Pradesh,Shajapur,42,42,0.042,6,6,0.006
+2011,Madhya Pradesh,Hoshangabad,43,43,0.043,6,6,0.006
+2011,Andhra Pradesh,Srikakulam,44,44,0.044,1,1,0.001
+2011,Andhra Pradesh,Visakhapatnam,45,45,0.045,1,1,0.001
+2011,Andhra Pradesh,East Godavari,46,46,0.046,1,1,0.001
+2011,Andhra Pradesh,West Godavari,47,47,0.047,1,1,0.001
+2011,Andhra Pradesh,Krishna,48,48,0.048,1,1,0.001
+2011,Andhra Pradesh,Guntur,49,49,0.049,1,1,0.001
+2011,Andhra Pradesh,S.P.S. Nellore,50,50,0.05,1,1,0.001
+2011,Andhra Pradesh,Kurnool,51,51,0.051,1,1,0.001
+2011,Andhra Pradesh,Ananthapur,52,52,0.052,1,1,0.001
+2011,Andhra Pradesh,Kadapa YSR,53,53,0.053,1,1,0.001
+2011,Andhra Pradesh,Chittoor,54,54,0.054,1,1,0.001
+2011,Telangana,Hyderabad,55,55,0.055,20,20,0.02
+2011,Telangana,Nizamabad,56,56,0.056,20,20,0.02
+2011,Telangana,Medak,57,57,0.057,20,20,0.02
+2011,Telangana,Mahabubnagar,58,58,0.058,20,20,0.02
+2011,Telangana,Nalgonda,59,59,0.059,20,20,0.02
+2011,Telangana,Warangal,60,60,0.06,20,20,0.02
+2011,Telangana,Khammam,61,61,0.061,20,20,0.02
+2011,Telangana,Karimnagar,62,62,0.062,20,20,0.02
+2011,Telangana,Adilabad,63,63,0.063,20,20,0.02
+2011,Karnataka,Bangalore,64,64,0.064,5,5,0.005
+2011,Karnataka,Kolar,65,65,0.065,5,5,0.005
+2011,Karnataka,Tumkur,66,66,0.066,5,5,0.005
+2011,Karnataka,Mysore,67,67,0.067,5,5,0.005
+2011,Karnataka,Mandya,68,68,0.068,5,5,0.005
+2011,Karnataka,Hassan,69,69,0.069,5,5,0.005
+2011,Karnataka,Chitradurga,72,72,0.072,5,5,0.005
+2011,Karnataka,Bellary,73,73,0.073,5,5,0.005
+2011,Karnataka,Dharwad,74,74,0.074,5,5,0.005
+2011,Karnataka,Belgaum,75,75,0.075,5,5,0.005
+2011,Karnataka,Bijapur / Vijayapura,76,76,0.076,5,5,0.005
+2011,Karnataka,Bidar,77,77,0.077,5,5,0.005
+2011,Karnataka,Raichur,78,78,0.078,5,5,0.005
+2011,Karnataka,Gulbarga / Kalaburagi,79,79,0.079,5,5,0.005
+2011,Karnataka,Dakshina Kannada,80,80,0.08,5,5,0.005
+2011,Karnataka,Uttara Kannada,81,81,0.081,5,5,0.005
+2011,Karnataka,Kodagu / Coorg,82,82,0.082,5,5,0.005
+2011,Tamil Nadu,South Arcot / Cuddalore,84,84,0.084,11,11,0.011
+2011,Tamil Nadu,North Arcot / Vellore,85,85,0.085,11,11,0.011
+2011,Tamil Nadu,Salem,86,86,0.086,11,11,0.011
+2011,Tamil Nadu,Coimbatore,87,87,0.087,11,11,0.011
+2011,Tamil Nadu,Tiruchirapalli / Trichy,88,88,0.088,11,11,0.011
+2011,Tamil Nadu,Thanjavur,89,89,0.089,11,11,0.011
+2011,Tamil Nadu,Madurai,90,90,0.09,11,11,0.011
+2011,Tamil Nadu,Ramananthapuram,91,91,0.091,11,11,0.011
+2011,Tamil Nadu,Thirunelveli,92,92,0.092,11,11,0.011
+2011,Tamil Nadu,The Nilgiris,93,93,0.093,11,11,0.011
+2011,Tamil Nadu,Kanyakumari,94,94,0.094,11,11,0.011
+2011,Maharashtra,Bombay,95,95,0.095,7,7,0.007
+2011,Maharashtra,Thane,96,96,0.096,7,7,0.007
+2011,Maharashtra,Raigad,97,97,0.097,7,7,0.007
+2011,Maharashtra,Ratnagiri,98,98,0.098,7,7,0.007
+2011,Maharashtra,Dhule,100,100,0.1,7,7,0.007
+2011,Maharashtra,Jalgaon,101,101,0.101,7,7,0.007
+2011,Maharashtra,Ahmednagar,102,102,0.102,7,7,0.007
+2011,Maharashtra,Pune,103,103,0.103,7,7,0.007
+2011,Maharashtra,Satara,104,104,0.104,7,7,0.007
+2011,Maharashtra,Sangli,105,105,0.105,7,7,0.007
+2011,Maharashtra,Solapur,106,106,0.106,7,7,0.007
+2011,Maharashtra,Kolhapur,107,107,0.107,7,7,0.007
+2011,Maharashtra,Aurangabad,108,108,0.108,7,7,0.007
+2011,Maharashtra,Parbhani,109,109,0.109,7,7,0.007
+2011,Maharashtra,Beed,110,110,0.11,7,7,0.007
+2011,Maharashtra,Nanded,111,111,0.111,7,7,0.007
+2011,Maharashtra,Osmanabad,112,112,0.112,7,7,0.007
+2011,Maharashtra,Buldhana,113,113,0.113,7,7,0.007
+2011,Maharashtra,Akola,114,114,0.114,7,7,0.007
+2011,Maharashtra,Amarawati,115,115,0.115,7,7,0.007
+2011,Maharashtra,Wardha,117,117,0.117,7,7,0.007
+2011,Maharashtra,Nagpur,118,118,0.118,7,7,0.007
+2011,Maharashtra,Bhandara,119,119,0.119,7,7,0.007
+2011,Maharashtra,Chandrapur,120,120,0.12,7,7,0.007
+2011,Gujarat,Ahmedabad,121,121,0.121,3,3,0.003
+2011,Gujarat,Amreli,122,122,0.122,3,3,0.003
+2011,Gujarat,Banaskantha,123,123,0.123,3,3,0.003
+2011,Gujarat,Bharuch,124,124,0.124,3,3,0.003
+2011,Gujarat,Vadodara / Baroda,125,125,0.125,3,3,0.003
+2011,Gujarat,Bhavnagar,126,126,0.126,3,3,0.003
+2011,Gujarat,Valsad,127,127,0.127,3,3,0.003
+2011,Gujarat,Dangs,128,128,0.128,3,3,0.003
+2011,Gujarat,Jamnagar,129,129,0.129,3,3,0.003
+2011,Gujarat,Junagadh,130,130,0.13,3,3,0.003
+2011,Gujarat,Kheda,131,131,0.131,3,3,0.003
+2011,Gujarat,Rajkot,135,135,0.135,3,3,0.003
+2011,Gujarat,Sabarkantha,136,136,0.136,3,3,0.003
+2011,Gujarat,Surat,137,137,0.137,3,3,0.003
+2011,Gujarat,Surendranagar,138,138,0.138,3,3,0.003
+2011,Rajasthan,Ajmer,139,139,0.139,10,10,0.01
+2011,Rajasthan,Alwar,140,140,0.14,10,10,0.01
+2011,Rajasthan,Banswara,141,141,0.141,10,10,0.01
+2011,Rajasthan,Barmer,142,142,0.142,10,10,0.01
+2011,Rajasthan,Bharatpur,143,143,0.143,10,10,0.01
+2011,Rajasthan,Bhilwara,144,144,0.144,10,10,0.01
+2011,Rajasthan,Bikaner,145,145,0.145,10,10,0.01
+2011,Rajasthan,Bundi,146,146,0.146,10,10,0.01
+2011,Rajasthan,Chittorgarh,147,147,0.147,10,10,0.01
+2011,Rajasthan,Churu,148,148,0.148,10,10,0.01
+2011,Rajasthan,Dungarpur,149,149,0.149,10,10,0.01
+2011,Rajasthan,Ganganagar,150,150,0.15,10,10,0.01
+2011,Rajasthan,Jaipur,151,151,0.151,10,10,0.01
+2011,Rajasthan,Jaisalmer,152,152,0.152,10,10,0.01
+2011,Rajasthan,Jalore,153,153,0.153,10,10,0.01
+2011,Rajasthan,Jhalawar,154,154,0.154,10,10,0.01
+2011,Rajasthan,Jodhpur,156,156,0.156,10,10,0.01
+2011,Rajasthan,Kota,157,157,0.157,10,10,0.01
+2011,Rajasthan,Nagaur,158,158,0.158,10,10,0.01
+2011,Rajasthan,Pali,159,159,0.159,10,10,0.01
+2011,Rajasthan,Swami Madhopur,160,160,0.16,10,10,0.01
+2011,Rajasthan,Sikar,161,161,0.161,10,10,0.01
+2011,Rajasthan,Sirohi,162,162,0.162,10,10,0.01
+2011,Rajasthan,Tonk,163,163,0.163,10,10,0.01
+2011,Rajasthan,Udaipur,164,164,0.164,10,10,0.01
+2011,Punjab,Gurdaspur,165,165,0.165,9,9,0.009
+2011,Punjab,Amritsar,166,166,0.166,9,9,0.009
+2011,Punjab,Kapurthala,167,167,0.167,9,9,0.009
+2011,Punjab,Jalandhar,168,168,0.168,9,9,0.009
+2011,Punjab,Hoshiarpur,169,169,0.169,9,9,0.009
+2011,Punjab,Roopnagar / Ropar,170,170,0.17,9,9,0.009
+2011,Punjab,Ludhiana,171,171,0.171,9,9,0.009
+2011,Punjab,Ferozpur,172,172,0.172,9,9,0.009
+2011,Punjab,Bhatinda,174,174,0.174,9,9,0.009
+2011,Punjab,Sangrur,175,175,0.175,9,9,0.009
+2011,Punjab,Patiala,176,176,0.176,9,9,0.009
+2011,Haryana,Hissar,177,177,0.177,4,4,0.004
+2011,Haryana,Gurgaon,180,180,0.18,4,4,0.004
+2011,Haryana,Jind,181,181,0.181,4,4,0.004
+2011,Haryana,Mahendragarh / Narnaul,182,182,0.182,4,4,0.004
+2011,Haryana,Ambala,183,183,0.183,4,4,0.004
+2011,Haryana,Karnal,184,184,0.184,4,4,0.004
+2011,Haryana,Rohtak,186,186,0.186,4,4,0.004
+2011,Uttar Pradesh,Saharanpur,189,189,0.189,12,12,0.012
+2011,Uttar Pradesh,Muzaffarnagar,190,190,0.19,12,12,0.012
+2011,Uttar Pradesh,Meerut,191,191,0.191,12,12,0.012
+2011,Uttar Pradesh,Buland Shahar,192,192,0.192,12,12,0.012
+2011,Uttar Pradesh,Aligarh,194,194,0.194,12,12,0.012
+2011,Uttar Pradesh,Mathura,195,195,0.195,12,12,0.012
+2011,Uttar Pradesh,Agra,196,196,0.196,12,12,0.012
+2011,Uttar Pradesh,Mainpuri,197,197,0.197,12,12,0.012
+2011,Uttar Pradesh,Etah,198,198,0.198,12,12,0.012
+2011,Uttar Pradesh,Bareilly,199,199,0.199,12,12,0.012
+2011,Uttar Pradesh,Budaun,200,200,0.2,12,12,0.012
+2011,Uttar Pradesh,Moradabad,201,201,0.201,12,12,0.012
+2011,Uttar Pradesh,Shahjahanpur,202,202,0.202,12,12,0.012
+2011,Uttar Pradesh,Pilibhit,203,203,0.203,12,12,0.012
+2011,Uttar Pradesh,Rampur,204,204,0.204,12,12,0.012
+2011,Uttar Pradesh,Bijnor,205,205,0.205,12,12,0.012
+2011,Uttar Pradesh,Farrukhabad,206,206,0.206,12,12,0.012
+2011,Uttar Pradesh,Etawah,207,207,0.207,12,12,0.012
+2011,Uttar Pradesh,Kanpur,208,208,0.208,12,12,0.012
+2011,Uttar Pradesh,Fatehpur,209,209,0.209,12,12,0.012
+2011,Uttar Pradesh,Allahabad,210,210,0.21,12,12,0.012
+2011,Uttar Pradesh,Jhansi,211,211,0.211,12,12,0.012
+2011,Uttar Pradesh,Jalaun,213,213,0.213,12,12,0.012
+2011,Uttar Pradesh,Hamirpur,214,214,0.214,12,12,0.012
+2011,Uttar Pradesh,Banda,215,215,0.215,12,12,0.012
+2011,Uttar Pradesh,Varanasi,216,216,0.216,12,12,0.012
+2011,Uttar Pradesh,Jaunpur,218,218,0.218,12,12,0.012
+2011,Uttar Pradesh,Ghazipur,219,219,0.219,12,12,0.012
+2011,Uttar Pradesh,Ballia,220,220,0.22,12,12,0.012
+2011,Uttar Pradesh,Gorakhpur,221,221,0.221,12,12,0.012
+2011,Uttar Pradesh,Deoria,222,222,0.222,12,12,0.012
+2011,Uttar Pradesh,Basti,223,223,0.223,12,12,0.012
+2011,Uttar Pradesh,Azamgarh,224,224,0.224,12,12,0.012
+2011,Uttar Pradesh,Lucknow,225,225,0.225,12,12,0.012
+2011,Uttar Pradesh,Unnao,226,226,0.226,12,12,0.012
+2011,Uttar Pradesh,Rae-Bareily,227,227,0.227,12,12,0.012
+2011,Uttar Pradesh,Sitapur,228,228,0.228,12,12,0.012
+2011,Uttar Pradesh,Hardoi,229,229,0.229,12,12,0.012
+2011,Uttar Pradesh,Kheri,230,230,0.23,12,12,0.012
+2011,Uttar Pradesh,Faizabad,231,231,0.231,12,12,0.012
+2011,Uttar Pradesh,Gonda,232,232,0.232,12,12,0.012
+2011,Uttar Pradesh,Bahraich,233,233,0.233,12,12,0.012
+2011,Uttar Pradesh,Sultanpur,234,234,0.234,12,12,0.012
+2011,Uttar Pradesh,Pratapgarh,235,235,0.235,12,12,0.012
+2011,Uttar Pradesh,Barabanki,236,236,0.236,12,12,0.012
+2011,Uttarakhand,Nainital,237,237,0.237,16,16,0.016
+2011,Uttarakhand,Almorah,238,238,0.238,16,16,0.016
+2011,Uttarakhand,Pithorgarh,239,239,0.239,16,16,0.016
+2011,Uttarakhand,Chamoli,240,240,0.24,16,16,0.016
+2011,Uttarakhand,Uttar Kashi,241,241,0.241,16,16,0.016
+2011,Uttarakhand,Tehri Garhwal,242,242,0.242,16,16,0.016
+2011,Uttarakhand,Garhwal,243,243,0.243,16,16,0.016
+2011,Uttarakhand,Dehradun,244,244,0.244,16,16,0.016
+2011,Assam,Cachar,601,601,0.601,17,17,0.017
+2011,Assam,Darrang,602,602,0.602,17,17,0.017
+2011,Assam,Dibrugarh,603,603,0.603,17,17,0.017
+2011,Assam,Goalpara,604,604,0.604,17,17,0.017
+2011,Assam,Kamrup,605,605,0.605,17,17,0.017
+2011,Assam,Karbi Anglong,606,606,0.606,17,17,0.017
+2011,Assam,Lakhimpur,607,607,0.607,17,17,0.017
+2011,Assam,Nagaon,609,609,0.609,17,17,0.017
+2011,Himachal Pradesh,Bilashpur,626,626,0.626,18,18,0.018
+2011,Himachal Pradesh,Chamba,627,627,0.627,18,18,0.018
+2011,Himachal Pradesh,Kangra,629,629,0.629,18,18,0.018
+2011,Himachal Pradesh,Kinnaur,630,630,0.63,18,18,0.018
+2011,Himachal Pradesh,Kullu,631,631,0.631,18,18,0.018
+2011,Himachal Pradesh,Lahul & Spiti,632,632,0.632,18,18,0.018
+2011,Himachal Pradesh,Solan,633,633,0.633,18,18,0.018
+2011,Himachal Pradesh,Mandi,634,634,0.634,18,18,0.018
+2011,Himachal Pradesh,Shimla,635,635,0.635,18,18,0.018
+2011,Himachal Pradesh,Sirmaur,636,636,0.636,18,18,0.018
+2011,Kerala,Alappuzha,651,651,0.651,19,19,0.019
+2011,Kerala,Kannur,652,652,0.652,19,19,0.019
+2011,Kerala,Kottayam,655,655,0.655,19,19,0.019
+2011,Kerala,Kozhikode,656,656,0.656,19,19,0.019
+2011,Kerala,Malappuram,657,657,0.657,19,19,0.019
+2011,Kerala,Palakkad,658,658,0.658,19,19,0.019
+2011,Kerala,Kollam,659,659,0.659,19,19,0.019
+2011,Kerala,Thrissur,660,660,0.66,19,19,0.019
+2011,Kerala,Thiruvananthapuram,661,661,0.661,19,19,0.019
+2011,Bihar,Champaran,901,901,0.901,2,2,0.002
+2011,Bihar,Muzaffarpur,902,902,0.902,2,2,0.002
+2011,Bihar,Darbhanga,903,903,0.903,2,2,0.002
+2011,Bihar,Saharsa,904,904,0.904,2,2,0.002
+2011,Bihar,Saran,906,906,0.906,2,2,0.002
+2011,Bihar,Patna,907,907,0.907,2,2,0.002
+2011,Bihar,Mungair,908,908,0.908,2,2,0.002
+2011,Bihar,Bhagalpur,909,909,0.909,2,2,0.002
+2011,Bihar,Shahabad (now part of Bhojpur district),911,911,0.911,2,2,0.002
+2011,Bihar,Gaya,912,912,0.912,2,2,0.002
+2011,Jharkhand,Santhal Paragana / Dumka,910,910,0.91,15,15,0.015
+2011,Jharkhand,Hazaribagh,913,913,0.913,15,15,0.015
+2011,Jharkhand,Dhanbad,914,914,0.914,15,15,0.015
+2011,Jharkhand,Palamau,915,915,0.915,15,15,0.015
+2011,Jharkhand,Ranchi,916,916,0.916,15,15,0.015
+2011,Jharkhand,Singhbhum,917,917,0.917,15,15,0.015
+2012,Chhattisgarh,Durg,1,1,0.001,14,14,0.014
+2012,Chhattisgarh,Bastar,2,2,0.002,14,14,0.014
+2012,Chhattisgarh,Raipur,3,3,0.003,14,14,0.014
+2012,Chhattisgarh,Bilaspur,4,4,0.004,14,14,0.014
+2012,Chhattisgarh,Raigarh,5,5,0.005,14,14,0.014
+2012,Chhattisgarh,Surguja,6,6,0.006,14,14,0.014
+2012,Madhya Pradesh,Jabalpur,7,7,0.007,6,6,0.006
+2012,Madhya Pradesh,Balaghat,8,8,0.008,6,6,0.006
+2012,Madhya Pradesh,Chhindwara,9,9,0.009,6,6,0.006
+2012,Madhya Pradesh,Narsinghpur,10,10,0.01,6,6,0.006
+2012,Madhya Pradesh,Seoni / Shivani,11,11,0.011,6,6,0.006
+2012,Madhya Pradesh,Mandla,12,12,0.012,6,6,0.006
+2012,Madhya Pradesh,Sagar,13,13,0.013,6,6,0.006
+2012,Madhya Pradesh,Damoh,14,14,0.014,6,6,0.006
+2012,Madhya Pradesh,Tikamgarh,15,15,0.015,6,6,0.006
+2012,Madhya Pradesh,Chhatarpur,16,16,0.016,6,6,0.006
+2012,Madhya Pradesh,Panna,17,17,0.017,6,6,0.006
+2012,Madhya Pradesh,Rewa,18,18,0.018,6,6,0.006
+2012,Madhya Pradesh,Sidhi,19,19,0.019,6,6,0.006
+2012,Madhya Pradesh,Satna,20,20,0.02,6,6,0.006
+2012,Madhya Pradesh,Shahdol,21,21,0.021,6,6,0.006
+2012,Madhya Pradesh,Gwalior,22,22,0.022,6,6,0.006
+2012,Madhya Pradesh,Shivpuri,23,23,0.023,6,6,0.006
+2012,Madhya Pradesh,Guna,24,24,0.024,6,6,0.006
+2012,Madhya Pradesh,Datia,25,25,0.025,6,6,0.006
+2012,Madhya Pradesh,Morena,26,26,0.026,6,6,0.006
+2012,Madhya Pradesh,Bhind,27,27,0.027,6,6,0.006
+2012,Madhya Pradesh,Indore,28,28,0.028,6,6,0.006
+2012,Madhya Pradesh,Ratlam,29,29,0.029,6,6,0.006
+2012,Madhya Pradesh,Ujjain,30,30,0.03,6,6,0.006
+2012,Madhya Pradesh,Mandsaur,31,31,0.031,6,6,0.006
+2012,Madhya Pradesh,Dewas,32,32,0.032,6,6,0.006
+2012,Madhya Pradesh,Dhar,33,33,0.033,6,6,0.006
+2012,Madhya Pradesh,Jhabua,34,34,0.034,6,6,0.006
+2012,Madhya Pradesh,Sehore,37,37,0.037,6,6,0.006
+2012,Madhya Pradesh,Raisen,38,38,0.038,6,6,0.006
+2012,Madhya Pradesh,Vidisha,39,39,0.039,6,6,0.006
+2012,Madhya Pradesh,Betul,40,40,0.04,6,6,0.006
+2012,Madhya Pradesh,Rajgarh,41,41,0.041,6,6,0.006
+2012,Madhya Pradesh,Shajapur,42,42,0.042,6,6,0.006
+2012,Madhya Pradesh,Hoshangabad,43,43,0.043,6,6,0.006
+2012,Andhra Pradesh,Srikakulam,44,44,0.044,1,1,0.001
+2012,Andhra Pradesh,Visakhapatnam,45,45,0.045,1,1,0.001
+2012,Andhra Pradesh,East Godavari,46,46,0.046,1,1,0.001
+2012,Andhra Pradesh,West Godavari,47,47,0.047,1,1,0.001
+2012,Andhra Pradesh,Krishna,48,48,0.048,1,1,0.001
+2012,Andhra Pradesh,Guntur,49,49,0.049,1,1,0.001
+2012,Andhra Pradesh,S.P.S. Nellore,50,50,0.05,1,1,0.001
+2012,Andhra Pradesh,Kurnool,51,51,0.051,1,1,0.001
+2012,Andhra Pradesh,Ananthapur,52,52,0.052,1,1,0.001
+2012,Andhra Pradesh,Kadapa YSR,53,53,0.053,1,1,0.001
+2012,Andhra Pradesh,Chittoor,54,54,0.054,1,1,0.001
+2012,Telangana,Hyderabad,55,55,0.055,20,20,0.02
+2012,Telangana,Nizamabad,56,56,0.056,20,20,0.02
+2012,Telangana,Medak,57,57,0.057,20,20,0.02
+2012,Telangana,Mahabubnagar,58,58,0.058,20,20,0.02
+2012,Telangana,Nalgonda,59,59,0.059,20,20,0.02
+2012,Telangana,Warangal,60,60,0.06,20,20,0.02
+2012,Telangana,Khammam,61,61,0.061,20,20,0.02
+2012,Telangana,Karimnagar,62,62,0.062,20,20,0.02
+2012,Telangana,Adilabad,63,63,0.063,20,20,0.02
+2012,Karnataka,Bangalore,64,64,0.064,5,5,0.005
+2012,Karnataka,Kolar,65,65,0.065,5,5,0.005
+2012,Karnataka,Tumkur,66,66,0.066,5,5,0.005
+2012,Karnataka,Mysore,67,67,0.067,5,5,0.005
+2012,Karnataka,Mandya,68,68,0.068,5,5,0.005
+2012,Karnataka,Hassan,69,69,0.069,5,5,0.005
+2012,Karnataka,Chitradurga,72,72,0.072,5,5,0.005
+2012,Karnataka,Bellary,73,73,0.073,5,5,0.005
+2012,Karnataka,Dharwad,74,74,0.074,5,5,0.005
+2012,Karnataka,Belgaum,75,75,0.075,5,5,0.005
+2012,Karnataka,Bijapur / Vijayapura,76,76,0.076,5,5,0.005
+2012,Karnataka,Bidar,77,77,0.077,5,5,0.005
+2012,Karnataka,Raichur,78,78,0.078,5,5,0.005
+2012,Karnataka,Gulbarga / Kalaburagi,79,79,0.079,5,5,0.005
+2012,Karnataka,Dakshina Kannada,80,80,0.08,5,5,0.005
+2012,Karnataka,Uttara Kannada,81,81,0.081,5,5,0.005
+2012,Karnataka,Kodagu / Coorg,82,82,0.082,5,5,0.005
+2012,Tamil Nadu,South Arcot / Cuddalore,84,84,0.084,11,11,0.011
+2012,Tamil Nadu,North Arcot / Vellore,85,85,0.085,11,11,0.011
+2012,Tamil Nadu,Salem,86,86,0.086,11,11,0.011
+2012,Tamil Nadu,Coimbatore,87,87,0.087,11,11,0.011
+2012,Tamil Nadu,Tiruchirapalli / Trichy,88,88,0.088,11,11,0.011
+2012,Tamil Nadu,Thanjavur,89,89,0.089,11,11,0.011
+2012,Tamil Nadu,Madurai,90,90,0.09,11,11,0.011
+2012,Tamil Nadu,Ramananthapuram,91,91,0.091,11,11,0.011
+2012,Tamil Nadu,Thirunelveli,92,92,0.092,11,11,0.011
+2012,Tamil Nadu,The Nilgiris,93,93,0.093,11,11,0.011
+2012,Tamil Nadu,Kanyakumari,94,94,0.094,11,11,0.011
+2012,Maharashtra,Bombay,95,95,0.095,7,7,0.007
+2012,Maharashtra,Thane,96,96,0.096,7,7,0.007
+2012,Maharashtra,Raigad,97,97,0.097,7,7,0.007
+2012,Maharashtra,Ratnagiri,98,98,0.098,7,7,0.007
+2012,Maharashtra,Dhule,100,100,0.1,7,7,0.007
+2012,Maharashtra,Jalgaon,101,101,0.101,7,7,0.007
+2012,Maharashtra,Ahmednagar,102,102,0.102,7,7,0.007
+2012,Maharashtra,Pune,103,103,0.103,7,7,0.007
+2012,Maharashtra,Satara,104,104,0.104,7,7,0.007
+2012,Maharashtra,Sangli,105,105,0.105,7,7,0.007
+2012,Maharashtra,Solapur,106,106,0.106,7,7,0.007
+2012,Maharashtra,Kolhapur,107,107,0.107,7,7,0.007
+2012,Maharashtra,Aurangabad,108,108,0.108,7,7,0.007
+2012,Maharashtra,Parbhani,109,109,0.109,7,7,0.007
+2012,Maharashtra,Beed,110,110,0.11,7,7,0.007
+2012,Maharashtra,Nanded,111,111,0.111,7,7,0.007
+2012,Maharashtra,Osmanabad,112,112,0.112,7,7,0.007
+2012,Maharashtra,Buldhana,113,113,0.113,7,7,0.007
+2012,Maharashtra,Akola,114,114,0.114,7,7,0.007
+2012,Maharashtra,Amarawati,115,115,0.115,7,7,0.007
+2012,Maharashtra,Wardha,117,117,0.117,7,7,0.007
+2012,Maharashtra,Nagpur,118,118,0.118,7,7,0.007
+2012,Maharashtra,Bhandara,119,119,0.119,7,7,0.007
+2012,Maharashtra,Chandrapur,120,120,0.12,7,7,0.007
+2012,Gujarat,Ahmedabad,121,121,0.121,3,3,0.003
+2012,Gujarat,Amreli,122,122,0.122,3,3,0.003
+2012,Gujarat,Banaskantha,123,123,0.123,3,3,0.003
+2012,Gujarat,Bharuch,124,124,0.124,3,3,0.003
+2012,Gujarat,Vadodara / Baroda,125,125,0.125,3,3,0.003
+2012,Gujarat,Bhavnagar,126,126,0.126,3,3,0.003
+2012,Gujarat,Valsad,127,127,0.127,3,3,0.003
+2012,Gujarat,Dangs,128,128,0.128,3,3,0.003
+2012,Gujarat,Jamnagar,129,129,0.129,3,3,0.003
+2012,Gujarat,Junagadh,130,130,0.13,3,3,0.003
+2012,Gujarat,Kheda,131,131,0.131,3,3,0.003
+2012,Gujarat,Rajkot,135,135,0.135,3,3,0.003
+2012,Gujarat,Sabarkantha,136,136,0.136,3,3,0.003
+2012,Gujarat,Surat,137,137,0.137,3,3,0.003
+2012,Gujarat,Surendranagar,138,138,0.138,3,3,0.003
+2012,Rajasthan,Ajmer,139,139,0.139,10,10,0.01
+2012,Rajasthan,Alwar,140,140,0.14,10,10,0.01
+2012,Rajasthan,Banswara,141,141,0.141,10,10,0.01
+2012,Rajasthan,Barmer,142,142,0.142,10,10,0.01
+2012,Rajasthan,Bharatpur,143,143,0.143,10,10,0.01
+2012,Rajasthan,Bhilwara,144,144,0.144,10,10,0.01
+2012,Rajasthan,Bikaner,145,145,0.145,10,10,0.01
+2012,Rajasthan,Bundi,146,146,0.146,10,10,0.01
+2012,Rajasthan,Chittorgarh,147,147,0.147,10,10,0.01
+2012,Rajasthan,Churu,148,148,0.148,10,10,0.01
+2012,Rajasthan,Dungarpur,149,149,0.149,10,10,0.01
+2012,Rajasthan,Ganganagar,150,150,0.15,10,10,0.01
+2012,Rajasthan,Jaipur,151,151,0.151,10,10,0.01
+2012,Rajasthan,Jaisalmer,152,152,0.152,10,10,0.01
+2012,Rajasthan,Jalore,153,153,0.153,10,10,0.01
+2012,Rajasthan,Jhalawar,154,154,0.154,10,10,0.01
+2012,Rajasthan,Jodhpur,156,156,0.156,10,10,0.01
+2012,Rajasthan,Kota,157,157,0.157,10,10,0.01
+2012,Rajasthan,Nagaur,158,158,0.158,10,10,0.01
+2012,Rajasthan,Pali,159,159,0.159,10,10,0.01
+2012,Rajasthan,Swami Madhopur,160,160,0.16,10,10,0.01
+2012,Rajasthan,Sikar,161,161,0.161,10,10,0.01
+2012,Rajasthan,Sirohi,162,162,0.162,10,10,0.01
+2012,Rajasthan,Tonk,163,163,0.163,10,10,0.01
+2012,Rajasthan,Udaipur,164,164,0.164,10,10,0.01
+2012,Punjab,Gurdaspur,165,165,0.165,9,9,0.009
+2012,Punjab,Amritsar,166,166,0.166,9,9,0.009
+2012,Punjab,Kapurthala,167,167,0.167,9,9,0.009
+2012,Punjab,Jalandhar,168,168,0.168,9,9,0.009
+2012,Punjab,Hoshiarpur,169,169,0.169,9,9,0.009
+2012,Punjab,Roopnagar / Ropar,170,170,0.17,9,9,0.009
+2012,Punjab,Ludhiana,171,171,0.171,9,9,0.009
+2012,Punjab,Ferozpur,172,172,0.172,9,9,0.009
+2012,Punjab,Bhatinda,174,174,0.174,9,9,0.009
+2012,Punjab,Sangrur,175,175,0.175,9,9,0.009
+2012,Punjab,Patiala,176,176,0.176,9,9,0.009
+2012,Haryana,Hissar,177,177,0.177,4,4,0.004
+2012,Haryana,Gurgaon,180,180,0.18,4,4,0.004
+2012,Haryana,Jind,181,181,0.181,4,4,0.004
+2012,Haryana,Mahendragarh / Narnaul,182,182,0.182,4,4,0.004
+2012,Haryana,Ambala,183,183,0.183,4,4,0.004
+2012,Haryana,Karnal,184,184,0.184,4,4,0.004
+2012,Haryana,Rohtak,186,186,0.186,4,4,0.004
+2012,Uttar Pradesh,Saharanpur,189,189,0.189,12,12,0.012
+2012,Uttar Pradesh,Muzaffarnagar,190,190,0.19,12,12,0.012
+2012,Uttar Pradesh,Meerut,191,191,0.191,12,12,0.012
+2012,Uttar Pradesh,Buland Shahar,192,192,0.192,12,12,0.012
+2012,Uttar Pradesh,Aligarh,194,194,0.194,12,12,0.012
+2012,Uttar Pradesh,Mathura,195,195,0.195,12,12,0.012
+2012,Uttar Pradesh,Agra,196,196,0.196,12,12,0.012
+2012,Uttar Pradesh,Mainpuri,197,197,0.197,12,12,0.012
+2012,Uttar Pradesh,Etah,198,198,0.198,12,12,0.012
+2012,Uttar Pradesh,Bareilly,199,199,0.199,12,12,0.012
+2012,Uttar Pradesh,Budaun,200,200,0.2,12,12,0.012
+2012,Uttar Pradesh,Moradabad,201,201,0.201,12,12,0.012
+2012,Uttar Pradesh,Shahjahanpur,202,202,0.202,12,12,0.012
+2012,Uttar Pradesh,Pilibhit,203,203,0.203,12,12,0.012
+2012,Uttar Pradesh,Rampur,204,204,0.204,12,12,0.012
+2012,Uttar Pradesh,Bijnor,205,205,0.205,12,12,0.012
+2012,Uttar Pradesh,Farrukhabad,206,206,0.206,12,12,0.012
+2012,Uttar Pradesh,Etawah,207,207,0.207,12,12,0.012
+2012,Uttar Pradesh,Kanpur,208,208,0.208,12,12,0.012
+2012,Uttar Pradesh,Fatehpur,209,209,0.209,12,12,0.012
+2012,Uttar Pradesh,Allahabad,210,210,0.21,12,12,0.012
+2012,Uttar Pradesh,Jhansi,211,211,0.211,12,12,0.012
+2012,Uttar Pradesh,Jalaun,213,213,0.213,12,12,0.012
+2012,Uttar Pradesh,Hamirpur,214,214,0.214,12,12,0.012
+2012,Uttar Pradesh,Banda,215,215,0.215,12,12,0.012
+2012,Uttar Pradesh,Varanasi,216,216,0.216,12,12,0.012
+2012,Uttar Pradesh,Jaunpur,218,218,0.218,12,12,0.012
+2012,Uttar Pradesh,Ghazipur,219,219,0.219,12,12,0.012
+2012,Uttar Pradesh,Ballia,220,220,0.22,12,12,0.012
+2012,Uttar Pradesh,Gorakhpur,221,221,0.221,12,12,0.012
+2012,Uttar Pradesh,Deoria,222,222,0.222,12,12,0.012
+2012,Uttar Pradesh,Basti,223,223,0.223,12,12,0.012
+2012,Uttar Pradesh,Azamgarh,224,224,0.224,12,12,0.012
+2012,Uttar Pradesh,Lucknow,225,225,0.225,12,12,0.012
+2012,Uttar Pradesh,Unnao,226,226,0.226,12,12,0.012
+2012,Uttar Pradesh,Rae-Bareily,227,227,0.227,12,12,0.012
+2012,Uttar Pradesh,Sitapur,228,228,0.228,12,12,0.012
+2012,Uttar Pradesh,Hardoi,229,229,0.229,12,12,0.012
+2012,Uttar Pradesh,Kheri,230,230,0.23,12,12,0.012
+2012,Uttar Pradesh,Faizabad,231,231,0.231,12,12,0.012
+2012,Uttar Pradesh,Gonda,232,232,0.232,12,12,0.012
+2012,Uttar Pradesh,Bahraich,233,233,0.233,12,12,0.012
+2012,Uttar Pradesh,Sultanpur,234,234,0.234,12,12,0.012
+2012,Uttar Pradesh,Pratapgarh,235,235,0.235,12,12,0.012
+2012,Uttar Pradesh,Barabanki,236,236,0.236,12,12,0.012
+2012,Uttarakhand,Nainital,237,237,0.237,16,16,0.016
+2012,Uttarakhand,Almorah,238,238,0.238,16,16,0.016
+2012,Uttarakhand,Pithorgarh,239,239,0.239,16,16,0.016
+2012,Uttarakhand,Chamoli,240,240,0.24,16,16,0.016
+2012,Uttarakhand,Uttar Kashi,241,241,0.241,16,16,0.016
+2012,Uttarakhand,Tehri Garhwal,242,242,0.242,16,16,0.016
+2012,Uttarakhand,Garhwal,243,243,0.243,16,16,0.016
+2012,Uttarakhand,Dehradun,244,244,0.244,16,16,0.016
+2012,Assam,Cachar,601,601,0.601,17,17,0.017
+2012,Assam,Darrang,602,602,0.602,17,17,0.017
+2012,Assam,Dibrugarh,603,603,0.603,17,17,0.017
+2012,Assam,Goalpara,604,604,0.604,17,17,0.017
+2012,Assam,Kamrup,605,605,0.605,17,17,0.017
+2012,Assam,Karbi Anglong,606,606,0.606,17,17,0.017
+2012,Assam,Lakhimpur,607,607,0.607,17,17,0.017
+2012,Assam,Nagaon,609,609,0.609,17,17,0.017
+2012,Himachal Pradesh,Bilashpur,626,626,0.626,18,18,0.018
+2012,Himachal Pradesh,Chamba,627,627,0.627,18,18,0.018
+2012,Himachal Pradesh,Kangra,629,629,0.629,18,18,0.018
+2012,Himachal Pradesh,Kinnaur,630,630,0.63,18,18,0.018
+2012,Himachal Pradesh,Kullu,631,631,0.631,18,18,0.018
+2012,Himachal Pradesh,Lahul & Spiti,632,632,0.632,18,18,0.018
+2012,Himachal Pradesh,Solan,633,633,0.633,18,18,0.018
+2012,Himachal Pradesh,Mandi,634,634,0.634,18,18,0.018
+2012,Himachal Pradesh,Shimla,635,635,0.635,18,18,0.018
+2012,Himachal Pradesh,Sirmaur,636,636,0.636,18,18,0.018
+2012,Kerala,Alappuzha,651,651,0.651,19,19,0.019
+2012,Kerala,Kannur,652,652,0.652,19,19,0.019
+2012,Kerala,Kottayam,655,655,0.655,19,19,0.019
+2012,Kerala,Kozhikode,656,656,0.656,19,19,0.019
+2012,Kerala,Malappuram,657,657,0.657,19,19,0.019
+2012,Kerala,Palakkad,658,658,0.658,19,19,0.019
+2012,Kerala,Kollam,659,659,0.659,19,19,0.019
+2012,Kerala,Thrissur,660,660,0.66,19,19,0.019
+2012,Kerala,Thiruvananthapuram,661,661,0.661,19,19,0.019
+2012,Bihar,Champaran,901,901,0.901,2,2,0.002
+2012,Bihar,Muzaffarpur,902,902,0.902,2,2,0.002
+2012,Bihar,Darbhanga,903,903,0.903,2,2,0.002
+2012,Bihar,Saharsa,904,904,0.904,2,2,0.002
+2012,Bihar,Saran,906,906,0.906,2,2,0.002
+2012,Bihar,Patna,907,907,0.907,2,2,0.002
+2012,Bihar,Mungair,908,908,0.908,2,2,0.002
+2012,Bihar,Bhagalpur,909,909,0.909,2,2,0.002
+2012,Bihar,Shahabad (now part of Bhojpur district),911,911,0.911,2,2,0.002
+2012,Bihar,Gaya,912,912,0.912,2,2,0.002
+2012,Jharkhand,Santhal Paragana / Dumka,910,910,0.91,15,15,0.015
+2012,Jharkhand,Hazaribagh,913,913,0.913,15,15,0.015
+2012,Jharkhand,Dhanbad,914,914,0.914,15,15,0.015
+2012,Jharkhand,Palamau,915,915,0.915,15,15,0.015
+2012,Jharkhand,Ranchi,916,916,0.916,15,15,0.015
+2012,Jharkhand,Singhbhum,917,917,0.917,15,15,0.015
+2013,Chhattisgarh,Durg,1,1,0.001,14,14,0.014
+2013,Chhattisgarh,Bastar,2,2,0.002,14,14,0.014
+2013,Chhattisgarh,Raipur,3,3,0.003,14,14,0.014
+2013,Chhattisgarh,Bilaspur,4,4,0.004,14,14,0.014
+2013,Chhattisgarh,Raigarh,5,5,0.005,14,14,0.014
+2013,Chhattisgarh,Surguja,6,6,0.006,14,14,0.014
+2013,Madhya Pradesh,Jabalpur,7,7,0.007,6,6,0.006
+2013,Madhya Pradesh,Balaghat,8,8,0.008,6,6,0.006
+2013,Madhya Pradesh,Chhindwara,9,9,0.009,6,6,0.006
+2013,Madhya Pradesh,Narsinghpur,10,10,0.01,6,6,0.006
+2013,Madhya Pradesh,Seoni / Shivani,11,11,0.011,6,6,0.006
+2013,Madhya Pradesh,Mandla,12,12,0.012,6,6,0.006
+2013,Madhya Pradesh,Sagar,13,13,0.013,6,6,0.006
+2013,Madhya Pradesh,Damoh,14,14,0.014,6,6,0.006
+2013,Madhya Pradesh,Tikamgarh,15,15,0.015,6,6,0.006
+2013,Madhya Pradesh,Chhatarpur,16,16,0.016,6,6,0.006
+2013,Madhya Pradesh,Panna,17,17,0.017,6,6,0.006
+2013,Madhya Pradesh,Rewa,18,18,0.018,6,6,0.006
+2013,Madhya Pradesh,Sidhi,19,19,0.019,6,6,0.006
+2013,Madhya Pradesh,Satna,20,20,0.02,6,6,0.006
+2013,Madhya Pradesh,Shahdol,21,21,0.021,6,6,0.006
+2013,Madhya Pradesh,Gwalior,22,22,0.022,6,6,0.006
+2013,Madhya Pradesh,Shivpuri,23,23,0.023,6,6,0.006
+2013,Madhya Pradesh,Guna,24,24,0.024,6,6,0.006
+2013,Madhya Pradesh,Datia,25,25,0.025,6,6,0.006
+2013,Madhya Pradesh,Morena,26,26,0.026,6,6,0.006
+2013,Madhya Pradesh,Bhind,27,27,0.027,6,6,0.006
+2013,Madhya Pradesh,Indore,28,28,0.028,6,6,0.006
+2013,Madhya Pradesh,Ratlam,29,29,0.029,6,6,0.006
+2013,Madhya Pradesh,Ujjain,30,30,0.03,6,6,0.006
+2013,Madhya Pradesh,Mandsaur,31,31,0.031,6,6,0.006
+2013,Madhya Pradesh,Dewas,32,32,0.032,6,6,0.006
+2013,Madhya Pradesh,Dhar,33,33,0.033,6,6,0.006
+2013,Madhya Pradesh,Jhabua,34,34,0.034,6,6,0.006
+2013,Madhya Pradesh,Sehore,37,37,0.037,6,6,0.006
+2013,Madhya Pradesh,Raisen,38,38,0.038,6,6,0.006
+2013,Madhya Pradesh,Vidisha,39,39,0.039,6,6,0.006
+2013,Madhya Pradesh,Betul,40,40,0.04,6,6,0.006
+2013,Madhya Pradesh,Rajgarh,41,41,0.041,6,6,0.006
+2013,Madhya Pradesh,Shajapur,42,42,0.042,6,6,0.006
+2013,Madhya Pradesh,Hoshangabad,43,43,0.043,6,6,0.006
+2013,Andhra Pradesh,Srikakulam,44,44,0.044,1,1,0.001
+2013,Andhra Pradesh,Visakhapatnam,45,45,0.045,1,1,0.001
+2013,Andhra Pradesh,East Godavari,46,46,0.046,1,1,0.001
+2013,Andhra Pradesh,West Godavari,47,47,0.047,1,1,0.001
+2013,Andhra Pradesh,Krishna,48,48,0.048,1,1,0.001
+2013,Andhra Pradesh,Guntur,49,49,0.049,1,1,0.001
+2013,Andhra Pradesh,S.P.S. Nellore,50,50,0.05,1,1,0.001
+2013,Andhra Pradesh,Kurnool,51,51,0.051,1,1,0.001
+2013,Andhra Pradesh,Ananthapur,52,52,0.052,1,1,0.001
+2013,Andhra Pradesh,Kadapa YSR,53,53,0.053,1,1,0.001
+2013,Andhra Pradesh,Chittoor,54,54,0.054,1,1,0.001
+2013,Telangana,Hyderabad,55,55,0.055,20,20,0.02
+2013,Telangana,Nizamabad,56,56,0.056,20,20,0.02
+2013,Telangana,Medak,57,57,0.057,20,20,0.02
+2013,Telangana,Mahabubnagar,58,58,0.058,20,20,0.02
+2013,Telangana,Nalgonda,59,59,0.059,20,20,0.02
+2013,Telangana,Warangal,60,60,0.06,20,20,0.02
+2013,Telangana,Khammam,61,61,0.061,20,20,0.02
+2013,Telangana,Karimnagar,62,62,0.062,20,20,0.02
+2013,Telangana,Adilabad,63,63,0.063,20,20,0.02
+2013,Karnataka,Bangalore,64,64,0.064,5,5,0.005
+2013,Karnataka,Kolar,65,65,0.065,5,5,0.005
+2013,Karnataka,Tumkur,66,66,0.066,5,5,0.005
+2013,Karnataka,Mysore,67,67,0.067,5,5,0.005
+2013,Karnataka,Mandya,68,68,0.068,5,5,0.005
+2013,Karnataka,Hassan,69,69,0.069,5,5,0.005
+2013,Karnataka,Chitradurga,72,72,0.072,5,5,0.005
+2013,Karnataka,Bellary,73,73,0.073,5,5,0.005
+2013,Karnataka,Dharwad,74,74,0.074,5,5,0.005
+2013,Karnataka,Belgaum,75,75,0.075,5,5,0.005
+2013,Karnataka,Bijapur / Vijayapura,76,76,0.076,5,5,0.005
+2013,Karnataka,Bidar,77,77,0.077,5,5,0.005
+2013,Karnataka,Raichur,78,78,0.078,5,5,0.005
+2013,Karnataka,Gulbarga / Kalaburagi,79,79,0.079,5,5,0.005
+2013,Karnataka,Dakshina Kannada,80,80,0.08,5,5,0.005
+2013,Karnataka,Uttara Kannada,81,81,0.081,5,5,0.005
+2013,Karnataka,Kodagu / Coorg,82,82,0.082,5,5,0.005
+2013,Tamil Nadu,South Arcot / Cuddalore,84,84,0.084,11,11,0.011
+2013,Tamil Nadu,North Arcot / Vellore,85,85,0.085,11,11,0.011
+2013,Tamil Nadu,Salem,86,86,0.086,11,11,0.011
+2013,Tamil Nadu,Coimbatore,87,87,0.087,11,11,0.011
+2013,Tamil Nadu,Tiruchirapalli / Trichy,88,88,0.088,11,11,0.011
+2013,Tamil Nadu,Thanjavur,89,89,0.089,11,11,0.011
+2013,Tamil Nadu,Madurai,90,90,0.09,11,11,0.011
+2013,Tamil Nadu,Ramananthapuram,91,91,0.091,11,11,0.011
+2013,Tamil Nadu,Thirunelveli,92,92,0.092,11,11,0.011
+2013,Tamil Nadu,The Nilgiris,93,93,0.093,11,11,0.011
+2013,Tamil Nadu,Kanyakumari,94,94,0.094,11,11,0.011
+2013,Maharashtra,Thane,96,96,0.096,7,7,0.007
+2013,Maharashtra,Raigad,97,97,0.097,7,7,0.007
+2013,Maharashtra,Ratnagiri,98,98,0.098,7,7,0.007
+2013,Maharashtra,Dhule,100,100,0.1,7,7,0.007
+2013,Maharashtra,Jalgaon,101,101,0.101,7,7,0.007
+2013,Maharashtra,Ahmednagar,102,102,0.102,7,7,0.007
+2013,Maharashtra,Pune,103,103,0.103,7,7,0.007
+2013,Maharashtra,Satara,104,104,0.104,7,7,0.007
+2013,Maharashtra,Sangli,105,105,0.105,7,7,0.007
+2013,Maharashtra,Solapur,106,106,0.106,7,7,0.007
+2013,Maharashtra,Kolhapur,107,107,0.107,7,7,0.007
+2013,Maharashtra,Aurangabad,108,108,0.108,7,7,0.007
+2013,Maharashtra,Parbhani,109,109,0.109,7,7,0.007
+2013,Maharashtra,Beed,110,110,0.11,7,7,0.007
+2013,Maharashtra,Nanded,111,111,0.111,7,7,0.007
+2013,Maharashtra,Osmanabad,112,112,0.112,7,7,0.007
+2013,Maharashtra,Buldhana,113,113,0.113,7,7,0.007
+2013,Maharashtra,Akola,114,114,0.114,7,7,0.007
+2013,Maharashtra,Amarawati,115,115,0.115,7,7,0.007
+2013,Maharashtra,Wardha,117,117,0.117,7,7,0.007
+2013,Maharashtra,Nagpur,118,118,0.118,7,7,0.007
+2013,Maharashtra,Bhandara,119,119,0.119,7,7,0.007
+2013,Maharashtra,Chandrapur,120,120,0.12,7,7,0.007
+2013,Gujarat,Ahmedabad,121,121,0.121,3,3,0.003
+2013,Gujarat,Amreli,122,122,0.122,3,3,0.003
+2013,Gujarat,Banaskantha,123,123,0.123,3,3,0.003
+2013,Gujarat,Bharuch,124,124,0.124,3,3,0.003
+2013,Gujarat,Vadodara / Baroda,125,125,0.125,3,3,0.003
+2013,Gujarat,Bhavnagar,126,126,0.126,3,3,0.003
+2013,Gujarat,Valsad,127,127,0.127,3,3,0.003
+2013,Gujarat,Dangs,128,128,0.128,3,3,0.003
+2013,Gujarat,Jamnagar,129,129,0.129,3,3,0.003
+2013,Gujarat,Junagadh,130,130,0.13,3,3,0.003
+2013,Gujarat,Kheda,131,131,0.131,3,3,0.003
+2013,Gujarat,Rajkot,135,135,0.135,3,3,0.003
+2013,Gujarat,Sabarkantha,136,136,0.136,3,3,0.003
+2013,Gujarat,Surat,137,137,0.137,3,3,0.003
+2013,Gujarat,Surendranagar,138,138,0.138,3,3,0.003
+2013,Rajasthan,Ajmer,139,139,0.139,10,10,0.01
+2013,Rajasthan,Alwar,140,140,0.14,10,10,0.01
+2013,Rajasthan,Banswara,141,141,0.141,10,10,0.01
+2013,Rajasthan,Barmer,142,142,0.142,10,10,0.01
+2013,Rajasthan,Bharatpur,143,143,0.143,10,10,0.01
+2013,Rajasthan,Bhilwara,144,144,0.144,10,10,0.01
+2013,Rajasthan,Bikaner,145,145,0.145,10,10,0.01
+2013,Rajasthan,Bundi,146,146,0.146,10,10,0.01
+2013,Rajasthan,Chittorgarh,147,147,0.147,10,10,0.01
+2013,Rajasthan,Churu,148,148,0.148,10,10,0.01
+2013,Rajasthan,Dungarpur,149,149,0.149,10,10,0.01
+2013,Rajasthan,Ganganagar,150,150,0.15,10,10,0.01
+2013,Rajasthan,Jaipur,151,151,0.151,10,10,0.01
+2013,Rajasthan,Jaisalmer,152,152,0.152,10,10,0.01
+2013,Rajasthan,Jalore,153,153,0.153,10,10,0.01
+2013,Rajasthan,Jhalawar,154,154,0.154,10,10,0.01
+2013,Rajasthan,Jodhpur,156,156,0.156,10,10,0.01
+2013,Rajasthan,Kota,157,157,0.157,10,10,0.01
+2013,Rajasthan,Nagaur,158,158,0.158,10,10,0.01
+2013,Rajasthan,Pali,159,159,0.159,10,10,0.01
+2013,Rajasthan,Swami Madhopur,160,160,0.16,10,10,0.01
+2013,Rajasthan,Sikar,161,161,0.161,10,10,0.01
+2013,Rajasthan,Sirohi,162,162,0.162,10,10,0.01
+2013,Rajasthan,Tonk,163,163,0.163,10,10,0.01
+2013,Rajasthan,Udaipur,164,164,0.164,10,10,0.01
+2013,Punjab,Gurdaspur,165,165,0.165,9,9,0.009
+2013,Punjab,Amritsar,166,166,0.166,9,9,0.009
+2013,Punjab,Kapurthala,167,167,0.167,9,9,0.009
+2013,Punjab,Jalandhar,168,168,0.168,9,9,0.009
+2013,Punjab,Hoshiarpur,169,169,0.169,9,9,0.009
+2013,Punjab,Roopnagar / Ropar,170,170,0.17,9,9,0.009
+2013,Punjab,Ludhiana,171,171,0.171,9,9,0.009
+2013,Punjab,Ferozpur,172,172,0.172,9,9,0.009
+2013,Punjab,Bhatinda,174,174,0.174,9,9,0.009
+2013,Punjab,Sangrur,175,175,0.175,9,9,0.009
+2013,Punjab,Patiala,176,176,0.176,9,9,0.009
+2013,Haryana,Hissar,177,177,0.177,4,4,0.004
+2013,Haryana,Gurgaon,180,180,0.18,4,4,0.004
+2013,Haryana,Jind,181,181,0.181,4,4,0.004
+2013,Haryana,Mahendragarh / Narnaul,182,182,0.182,4,4,0.004
+2013,Haryana,Ambala,183,183,0.183,4,4,0.004
+2013,Haryana,Karnal,184,184,0.184,4,4,0.004
+2013,Haryana,Rohtak,186,186,0.186,4,4,0.004
+2013,Uttar Pradesh,Saharanpur,189,189,0.189,12,12,0.012
+2013,Uttar Pradesh,Muzaffarnagar,190,190,0.19,12,12,0.012
+2013,Uttar Pradesh,Meerut,191,191,0.191,12,12,0.012
+2013,Uttar Pradesh,Buland Shahar,192,192,0.192,12,12,0.012
+2013,Uttar Pradesh,Aligarh,194,194,0.194,12,12,0.012
+2013,Uttar Pradesh,Mathura,195,195,0.195,12,12,0.012
+2013,Uttar Pradesh,Agra,196,196,0.196,12,12,0.012
+2013,Uttar Pradesh,Mainpuri,197,197,0.197,12,12,0.012
+2013,Uttar Pradesh,Etah,198,198,0.198,12,12,0.012
+2013,Uttar Pradesh,Bareilly,199,199,0.199,12,12,0.012
+2013,Uttar Pradesh,Budaun,200,200,0.2,12,12,0.012
+2013,Uttar Pradesh,Moradabad,201,201,0.201,12,12,0.012
+2013,Uttar Pradesh,Shahjahanpur,202,202,0.202,12,12,0.012
+2013,Uttar Pradesh,Pilibhit,203,203,0.203,12,12,0.012
+2013,Uttar Pradesh,Rampur,204,204,0.204,12,12,0.012
+2013,Uttar Pradesh,Bijnor,205,205,0.205,12,12,0.012
+2013,Uttar Pradesh,Farrukhabad,206,206,0.206,12,12,0.012
+2013,Uttar Pradesh,Etawah,207,207,0.207,12,12,0.012
+2013,Uttar Pradesh,Kanpur,208,208,0.208,12,12,0.012
+2013,Uttar Pradesh,Fatehpur,209,209,0.209,12,12,0.012
+2013,Uttar Pradesh,Allahabad,210,210,0.21,12,12,0.012
+2013,Uttar Pradesh,Jhansi,211,211,0.211,12,12,0.012
+2013,Uttar Pradesh,Jalaun,213,213,0.213,12,12,0.012
+2013,Uttar Pradesh,Hamirpur,214,214,0.214,12,12,0.012
+2013,Uttar Pradesh,Banda,215,215,0.215,12,12,0.012
+2013,Uttar Pradesh,Varanasi,216,216,0.216,12,12,0.012
+2013,Uttar Pradesh,Jaunpur,218,218,0.218,12,12,0.012
+2013,Uttar Pradesh,Ghazipur,219,219,0.219,12,12,0.012
+2013,Uttar Pradesh,Ballia,220,220,0.22,12,12,0.012
+2013,Uttar Pradesh,Gorakhpur,221,221,0.221,12,12,0.012
+2013,Uttar Pradesh,Deoria,222,222,0.222,12,12,0.012
+2013,Uttar Pradesh,Basti,223,223,0.223,12,12,0.012
+2013,Uttar Pradesh,Azamgarh,224,224,0.224,12,12,0.012
+2013,Uttar Pradesh,Lucknow,225,225,0.225,12,12,0.012
+2013,Uttar Pradesh,Unnao,226,226,0.226,12,12,0.012
+2013,Uttar Pradesh,Rae-Bareily,227,227,0.227,12,12,0.012
+2013,Uttar Pradesh,Sitapur,228,228,0.228,12,12,0.012
+2013,Uttar Pradesh,Hardoi,229,229,0.229,12,12,0.012
+2013,Uttar Pradesh,Kheri,230,230,0.23,12,12,0.012
+2013,Uttar Pradesh,Faizabad,231,231,0.231,12,12,0.012
+2013,Uttar Pradesh,Gonda,232,232,0.232,12,12,0.012
+2013,Uttar Pradesh,Bahraich,233,233,0.233,12,12,0.012
+2013,Uttar Pradesh,Sultanpur,234,234,0.234,12,12,0.012
+2013,Uttar Pradesh,Pratapgarh,235,235,0.235,12,12,0.012
+2013,Uttar Pradesh,Barabanki,236,236,0.236,12,12,0.012
+2013,Uttarakhand,Nainital,237,237,0.237,16,16,0.016
+2013,Uttarakhand,Almorah,238,238,0.238,16,16,0.016
+2013,Uttarakhand,Pithorgarh,239,239,0.239,16,16,0.016
+2013,Uttarakhand,Chamoli,240,240,0.24,16,16,0.016
+2013,Uttarakhand,Uttar Kashi,241,241,0.241,16,16,0.016
+2013,Uttarakhand,Tehri Garhwal,242,242,0.242,16,16,0.016
+2013,Uttarakhand,Garhwal,243,243,0.243,16,16,0.016
+2013,Uttarakhand,Dehradun,244,244,0.244,16,16,0.016
+2013,Assam,Cachar,601,601,0.601,17,17,0.017
+2013,Assam,Darrang,602,602,0.602,17,17,0.017
+2013,Assam,Dibrugarh,603,603,0.603,17,17,0.017
+2013,Assam,Goalpara,604,604,0.604,17,17,0.017
+2013,Assam,Kamrup,605,605,0.605,17,17,0.017
+2013,Assam,Karbi Anglong,606,606,0.606,17,17,0.017
+2013,Assam,Lakhimpur,607,607,0.607,17,17,0.017
+2013,Assam,Nagaon,609,609,0.609,17,17,0.017
+2013,Himachal Pradesh,Bilashpur,626,626,0.626,18,18,0.018
+2013,Himachal Pradesh,Chamba,627,627,0.627,18,18,0.018
+2013,Himachal Pradesh,Kangra,629,629,0.629,18,18,0.018
+2013,Himachal Pradesh,Kinnaur,630,630,0.63,18,18,0.018
+2013,Himachal Pradesh,Kullu,631,631,0.631,18,18,0.018
+2013,Himachal Pradesh,Lahul & Spiti,632,632,0.632,18,18,0.018
+2013,Himachal Pradesh,Solan,633,633,0.633,18,18,0.018
+2013,Himachal Pradesh,Mandi,634,634,0.634,18,18,0.018
+2013,Himachal Pradesh,Shimla,635,635,0.635,18,18,0.018
+2013,Himachal Pradesh,Sirmaur,636,636,0.636,18,18,0.018
+2013,Kerala,Alappuzha,651,651,0.651,19,19,0.019
+2013,Kerala,Kannur,652,652,0.652,19,19,0.019
+2013,Kerala,Kottayam,655,655,0.655,19,19,0.019
+2013,Kerala,Kozhikode,656,656,0.656,19,19,0.019
+2013,Kerala,Malappuram,657,657,0.657,19,19,0.019
+2013,Kerala,Palakkad,658,658,0.658,19,19,0.019
+2013,Kerala,Kollam,659,659,0.659,19,19,0.019
+2013,Kerala,Thrissur,660,660,0.66,19,19,0.019
+2013,Kerala,Thiruvananthapuram,661,661,0.661,19,19,0.019
+2013,Bihar,Champaran,901,901,0.901,2,2,0.002
+2013,Bihar,Muzaffarpur,902,902,0.902,2,2,0.002
+2013,Bihar,Darbhanga,903,903,0.903,2,2,0.002
+2013,Bihar,Saharsa,904,904,0.904,2,2,0.002
+2013,Bihar,Saran,906,906,0.906,2,2,0.002
+2013,Bihar,Patna,907,907,0.907,2,2,0.002
+2013,Bihar,Mungair,908,908,0.908,2,2,0.002
+2013,Bihar,Bhagalpur,909,909,0.909,2,2,0.002
+2013,Bihar,Shahabad (now part of Bhojpur district),911,911,0.911,2,2,0.002
+2013,Bihar,Gaya,912,912,0.912,2,2,0.002
+2013,Jharkhand,Santhal Paragana / Dumka,910,910,0.91,15,15,0.015
+2013,Jharkhand,Hazaribagh,913,913,0.913,15,15,0.015
+2013,Jharkhand,Dhanbad,914,914,0.914,15,15,0.015
+2013,Jharkhand,Palamau,915,915,0.915,15,15,0.015
+2013,Jharkhand,Ranchi,916,916,0.916,15,15,0.015
+2013,Jharkhand,Singhbhum,917,917,0.917,15,15,0.015
+2014,Chhattisgarh,Durg,1,1,0.001,14,14,0.014
+2014,Chhattisgarh,Bastar,2,2,0.002,14,14,0.014
+2014,Chhattisgarh,Raipur,3,3,0.003,14,14,0.014
+2014,Chhattisgarh,Bilaspur,4,4,0.004,14,14,0.014
+2014,Chhattisgarh,Raigarh,5,5,0.005,14,14,0.014
+2014,Chhattisgarh,Surguja,6,6,0.006,14,14,0.014
+2014,Madhya Pradesh,Jabalpur,7,7,0.007,6,6,0.006
+2014,Madhya Pradesh,Balaghat,8,8,0.008,6,6,0.006
+2014,Madhya Pradesh,Chhindwara,9,9,0.009,6,6,0.006
+2014,Madhya Pradesh,Narsinghpur,10,10,0.01,6,6,0.006
+2014,Madhya Pradesh,Seoni / Shivani,11,11,0.011,6,6,0.006
+2014,Madhya Pradesh,Mandla,12,12,0.012,6,6,0.006
+2014,Madhya Pradesh,Sagar,13,13,0.013,6,6,0.006
+2014,Madhya Pradesh,Damoh,14,14,0.014,6,6,0.006
+2014,Madhya Pradesh,Tikamgarh,15,15,0.015,6,6,0.006
+2014,Madhya Pradesh,Chhatarpur,16,16,0.016,6,6,0.006
+2014,Madhya Pradesh,Panna,17,17,0.017,6,6,0.006
+2014,Madhya Pradesh,Rewa,18,18,0.018,6,6,0.006
+2014,Madhya Pradesh,Sidhi,19,19,0.019,6,6,0.006
+2014,Madhya Pradesh,Satna,20,20,0.02,6,6,0.006
+2014,Madhya Pradesh,Shahdol,21,21,0.021,6,6,0.006
+2014,Madhya Pradesh,Gwalior,22,22,0.022,6,6,0.006
+2014,Madhya Pradesh,Shivpuri,23,23,0.023,6,6,0.006
+2014,Madhya Pradesh,Guna,24,24,0.024,6,6,0.006
+2014,Madhya Pradesh,Datia,25,25,0.025,6,6,0.006
+2014,Madhya Pradesh,Morena,26,26,0.026,6,6,0.006
+2014,Madhya Pradesh,Bhind,27,27,0.027,6,6,0.006
+2014,Madhya Pradesh,Indore,28,28,0.028,6,6,0.006
+2014,Madhya Pradesh,Ratlam,29,29,0.029,6,6,0.006
+2014,Madhya Pradesh,Ujjain,30,30,0.03,6,6,0.006
+2014,Madhya Pradesh,Mandsaur,31,31,0.031,6,6,0.006
+2014,Madhya Pradesh,Dewas,32,32,0.032,6,6,0.006
+2014,Madhya Pradesh,Dhar,33,33,0.033,6,6,0.006
+2014,Madhya Pradesh,Jhabua,34,34,0.034,6,6,0.006
+2014,Madhya Pradesh,Sehore,37,37,0.037,6,6,0.006
+2014,Madhya Pradesh,Raisen,38,38,0.038,6,6,0.006
+2014,Madhya Pradesh,Vidisha,39,39,0.039,6,6,0.006
+2014,Madhya Pradesh,Betul,40,40,0.04,6,6,0.006
+2014,Madhya Pradesh,Rajgarh,41,41,0.041,6,6,0.006
+2014,Madhya Pradesh,Shajapur,42,42,0.042,6,6,0.006
+2014,Madhya Pradesh,Hoshangabad,43,43,0.043,6,6,0.006
+2014,Andhra Pradesh,Srikakulam,44,44,0.044,1,1,0.001
+2014,Andhra Pradesh,Visakhapatnam,45,45,0.045,1,1,0.001
+2014,Andhra Pradesh,East Godavari,46,46,0.046,1,1,0.001
+2014,Andhra Pradesh,West Godavari,47,47,0.047,1,1,0.001
+2014,Andhra Pradesh,Krishna,48,48,0.048,1,1,0.001
+2014,Andhra Pradesh,Guntur,49,49,0.049,1,1,0.001
+2014,Andhra Pradesh,S.P.S. Nellore,50,50,0.05,1,1,0.001
+2014,Andhra Pradesh,Kurnool,51,51,0.051,1,1,0.001
+2014,Andhra Pradesh,Ananthapur,52,52,0.052,1,1,0.001
+2014,Andhra Pradesh,Kadapa YSR,53,53,0.053,1,1,0.001
+2014,Andhra Pradesh,Chittoor,54,54,0.054,1,1,0.001
+2014,Telangana,Hyderabad,55,55,0.055,20,20,0.02
+2014,Telangana,Nizamabad,56,56,0.056,20,20,0.02
+2014,Telangana,Medak,57,57,0.057,20,20,0.02
+2014,Telangana,Mahabubnagar,58,58,0.058,20,20,0.02
+2014,Telangana,Nalgonda,59,59,0.059,20,20,0.02
+2014,Telangana,Warangal,60,60,0.06,20,20,0.02
+2014,Telangana,Khammam,61,61,0.061,20,20,0.02
+2014,Telangana,Karimnagar,62,62,0.062,20,20,0.02
+2014,Telangana,Adilabad,63,63,0.063,20,20,0.02
+2014,Karnataka,Bangalore,64,64,0.064,5,5,0.005
+2014,Karnataka,Kolar,65,65,0.065,5,5,0.005
+2014,Karnataka,Tumkur,66,66,0.066,5,5,0.005
+2014,Karnataka,Mysore,67,67,0.067,5,5,0.005
+2014,Karnataka,Mandya,68,68,0.068,5,5,0.005
+2014,Karnataka,Hassan,69,69,0.069,5,5,0.005
+2014,Karnataka,Chitradurga,72,72,0.072,5,5,0.005
+2014,Karnataka,Bellary,73,73,0.073,5,5,0.005
+2014,Karnataka,Dharwad,74,74,0.074,5,5,0.005
+2014,Karnataka,Belgaum,75,75,0.075,5,5,0.005
+2014,Karnataka,Bijapur / Vijayapura,76,76,0.076,5,5,0.005
+2014,Karnataka,Bidar,77,77,0.077,5,5,0.005
+2014,Karnataka,Raichur,78,78,0.078,5,5,0.005
+2014,Karnataka,Gulbarga / Kalaburagi,79,79,0.079,5,5,0.005
+2014,Karnataka,Dakshina Kannada,80,80,0.08,5,5,0.005
+2014,Karnataka,Uttara Kannada,81,81,0.081,5,5,0.005
+2014,Karnataka,Kodagu / Coorg,82,82,0.082,5,5,0.005
+2014,Tamil Nadu,South Arcot / Cuddalore,84,84,0.084,11,11,0.011
+2014,Tamil Nadu,North Arcot / Vellore,85,85,0.085,11,11,0.011
+2014,Tamil Nadu,Salem,86,86,0.086,11,11,0.011
+2014,Tamil Nadu,Coimbatore,87,87,0.087,11,11,0.011
+2014,Tamil Nadu,Tiruchirapalli / Trichy,88,88,0.088,11,11,0.011
+2014,Tamil Nadu,Thanjavur,89,89,0.089,11,11,0.011
+2014,Tamil Nadu,Madurai,90,90,0.09,11,11,0.011
+2014,Tamil Nadu,Ramananthapuram,91,91,0.091,11,11,0.011
+2014,Tamil Nadu,Thirunelveli,92,92,0.092,11,11,0.011
+2014,Tamil Nadu,The Nilgiris,93,93,0.093,11,11,0.011
+2014,Tamil Nadu,Kanyakumari,94,94,0.094,11,11,0.011
+2014,Maharashtra,Thane,96,96,0.096,7,7,0.007
+2014,Maharashtra,Raigad,97,97,0.097,7,7,0.007
+2014,Maharashtra,Ratnagiri,98,98,0.098,7,7,0.007
+2014,Maharashtra,Dhule,100,100,0.1,7,7,0.007
+2014,Maharashtra,Jalgaon,101,101,0.101,7,7,0.007
+2014,Maharashtra,Ahmednagar,102,102,0.102,7,7,0.007
+2014,Maharashtra,Pune,103,103,0.103,7,7,0.007
+2014,Maharashtra,Satara,104,104,0.104,7,7,0.007
+2014,Maharashtra,Sangli,105,105,0.105,7,7,0.007
+2014,Maharashtra,Solapur,106,106,0.106,7,7,0.007
+2014,Maharashtra,Kolhapur,107,107,0.107,7,7,0.007
+2014,Maharashtra,Aurangabad,108,108,0.108,7,7,0.007
+2014,Maharashtra,Parbhani,109,109,0.109,7,7,0.007
+2014,Maharashtra,Beed,110,110,0.11,7,7,0.007
+2014,Maharashtra,Nanded,111,111,0.111,7,7,0.007
+2014,Maharashtra,Osmanabad,112,112,0.112,7,7,0.007
+2014,Maharashtra,Buldhana,113,113,0.113,7,7,0.007
+2014,Maharashtra,Akola,114,114,0.114,7,7,0.007
+2014,Maharashtra,Amarawati,115,115,0.115,7,7,0.007
+2014,Maharashtra,Wardha,117,117,0.117,7,7,0.007
+2014,Maharashtra,Nagpur,118,118,0.118,7,7,0.007
+2014,Maharashtra,Bhandara,119,119,0.119,7,7,0.007
+2014,Maharashtra,Chandrapur,120,120,0.12,7,7,0.007
+2014,Gujarat,Ahmedabad,121,121,0.121,3,3,0.003
+2014,Gujarat,Amreli,122,122,0.122,3,3,0.003
+2014,Gujarat,Banaskantha,123,123,0.123,3,3,0.003
+2014,Gujarat,Bharuch,124,124,0.124,3,3,0.003
+2014,Gujarat,Vadodara / Baroda,125,125,0.125,3,3,0.003
+2014,Gujarat,Bhavnagar,126,126,0.126,3,3,0.003
+2014,Gujarat,Valsad,127,127,0.127,3,3,0.003
+2014,Gujarat,Dangs,128,128,0.128,3,3,0.003
+2014,Gujarat,Jamnagar,129,129,0.129,3,3,0.003
+2014,Gujarat,Junagadh,130,130,0.13,3,3,0.003
+2014,Gujarat,Kheda,131,131,0.131,3,3,0.003
+2014,Gujarat,Rajkot,135,135,0.135,3,3,0.003
+2014,Gujarat,Sabarkantha,136,136,0.136,3,3,0.003
+2014,Gujarat,Surat,137,137,0.137,3,3,0.003
+2014,Gujarat,Surendranagar,138,138,0.138,3,3,0.003
+2014,Rajasthan,Ajmer,139,139,0.139,10,10,0.01
+2014,Rajasthan,Alwar,140,140,0.14,10,10,0.01
+2014,Rajasthan,Banswara,141,141,0.141,10,10,0.01
+2014,Rajasthan,Barmer,142,142,0.142,10,10,0.01
+2014,Rajasthan,Bharatpur,143,143,0.143,10,10,0.01
+2014,Rajasthan,Bhilwara,144,144,0.144,10,10,0.01
+2014,Rajasthan,Bikaner,145,145,0.145,10,10,0.01
+2014,Rajasthan,Bundi,146,146,0.146,10,10,0.01
+2014,Rajasthan,Chittorgarh,147,147,0.147,10,10,0.01
+2014,Rajasthan,Churu,148,148,0.148,10,10,0.01
+2014,Rajasthan,Dungarpur,149,149,0.149,10,10,0.01
+2014,Rajasthan,Ganganagar,150,150,0.15,10,10,0.01
+2014,Rajasthan,Jaipur,151,151,0.151,10,10,0.01
+2014,Rajasthan,Jaisalmer,152,152,0.152,10,10,0.01
+2014,Rajasthan,Jalore,153,153,0.153,10,10,0.01
+2014,Rajasthan,Jhalawar,154,154,0.154,10,10,0.01
+2014,Rajasthan,Jodhpur,156,156,0.156,10,10,0.01
+2014,Rajasthan,Kota,157,157,0.157,10,10,0.01
+2014,Rajasthan,Nagaur,158,158,0.158,10,10,0.01
+2014,Rajasthan,Pali,159,159,0.159,10,10,0.01
+2014,Rajasthan,Swami Madhopur,160,160,0.16,10,10,0.01
+2014,Rajasthan,Sikar,161,161,0.161,10,10,0.01
+2014,Rajasthan,Sirohi,162,162,0.162,10,10,0.01
+2014,Rajasthan,Tonk,163,163,0.163,10,10,0.01
+2014,Rajasthan,Udaipur,164,164,0.164,10,10,0.01
+2014,Punjab,Gurdaspur,165,165,0.165,9,9,0.009
+2014,Punjab,Amritsar,166,166,0.166,9,9,0.009
+2014,Punjab,Kapurthala,167,167,0.167,9,9,0.009
+2014,Punjab,Jalandhar,168,168,0.168,9,9,0.009
+2014,Punjab,Hoshiarpur,169,169,0.169,9,9,0.009
+2014,Punjab,Roopnagar / Ropar,170,170,0.17,9,9,0.009
+2014,Punjab,Ludhiana,171,171,0.171,9,9,0.009
+2014,Punjab,Ferozpur,172,172,0.172,9,9,0.009
+2014,Punjab,Bhatinda,174,174,0.174,9,9,0.009
+2014,Punjab,Sangrur,175,175,0.175,9,9,0.009
+2014,Punjab,Patiala,176,176,0.176,9,9,0.009
+2014,Haryana,Hissar,177,177,0.177,4,4,0.004
+2014,Haryana,Gurgaon,180,180,0.18,4,4,0.004
+2014,Haryana,Jind,181,181,0.181,4,4,0.004
+2014,Haryana,Mahendragarh / Narnaul,182,182,0.182,4,4,0.004
+2014,Haryana,Ambala,183,183,0.183,4,4,0.004
+2014,Haryana,Karnal,184,184,0.184,4,4,0.004
+2014,Haryana,Rohtak,186,186,0.186,4,4,0.004
+2014,Uttar Pradesh,Saharanpur,189,189,0.189,12,12,0.012
+2014,Uttar Pradesh,Muzaffarnagar,190,190,0.19,12,12,0.012
+2014,Uttar Pradesh,Meerut,191,191,0.191,12,12,0.012
+2014,Uttar Pradesh,Buland Shahar,192,192,0.192,12,12,0.012
+2014,Uttar Pradesh,Aligarh,194,194,0.194,12,12,0.012
+2014,Uttar Pradesh,Mathura,195,195,0.195,12,12,0.012
+2014,Uttar Pradesh,Agra,196,196,0.196,12,12,0.012
+2014,Uttar Pradesh,Mainpuri,197,197,0.197,12,12,0.012
+2014,Uttar Pradesh,Etah,198,198,0.198,12,12,0.012
+2014,Uttar Pradesh,Bareilly,199,199,0.199,12,12,0.012
+2014,Uttar Pradesh,Budaun,200,200,0.2,12,12,0.012
+2014,Uttar Pradesh,Moradabad,201,201,0.201,12,12,0.012
+2014,Uttar Pradesh,Shahjahanpur,202,202,0.202,12,12,0.012
+2014,Uttar Pradesh,Pilibhit,203,203,0.203,12,12,0.012
+2014,Uttar Pradesh,Rampur,204,204,0.204,12,12,0.012
+2014,Uttar Pradesh,Bijnor,205,205,0.205,12,12,0.012
+2014,Uttar Pradesh,Farrukhabad,206,206,0.206,12,12,0.012
+2014,Uttar Pradesh,Etawah,207,207,0.207,12,12,0.012
+2014,Uttar Pradesh,Kanpur,208,208,0.208,12,12,0.012
+2014,Uttar Pradesh,Fatehpur,209,209,0.209,12,12,0.012
+2014,Uttar Pradesh,Allahabad,210,210,0.21,12,12,0.012
+2014,Uttar Pradesh,Jhansi,211,211,0.211,12,12,0.012
+2014,Uttar Pradesh,Jalaun,213,213,0.213,12,12,0.012
+2014,Uttar Pradesh,Hamirpur,214,214,0.214,12,12,0.012
+2014,Uttar Pradesh,Banda,215,215,0.215,12,12,0.012
+2014,Uttar Pradesh,Varanasi,216,216,0.216,12,12,0.012
+2014,Uttar Pradesh,Jaunpur,218,218,0.218,12,12,0.012
+2014,Uttar Pradesh,Ghazipur,219,219,0.219,12,12,0.012
+2014,Uttar Pradesh,Ballia,220,220,0.22,12,12,0.012
+2014,Uttar Pradesh,Gorakhpur,221,221,0.221,12,12,0.012
+2014,Uttar Pradesh,Deoria,222,222,0.222,12,12,0.012
+2014,Uttar Pradesh,Basti,223,223,0.223,12,12,0.012
+2014,Uttar Pradesh,Azamgarh,224,224,0.224,12,12,0.012
+2014,Uttar Pradesh,Lucknow,225,225,0.225,12,12,0.012
+2014,Uttar Pradesh,Unnao,226,226,0.226,12,12,0.012
+2014,Uttar Pradesh,Rae-Bareily,227,227,0.227,12,12,0.012
+2014,Uttar Pradesh,Sitapur,228,228,0.228,12,12,0.012
+2014,Uttar Pradesh,Hardoi,229,229,0.229,12,12,0.012
+2014,Uttar Pradesh,Kheri,230,230,0.23,12,12,0.012
+2014,Uttar Pradesh,Faizabad,231,231,0.231,12,12,0.012
+2014,Uttar Pradesh,Gonda,232,232,0.232,12,12,0.012
+2014,Uttar Pradesh,Bahraich,233,233,0.233,12,12,0.012
+2014,Uttar Pradesh,Sultanpur,234,234,0.234,12,12,0.012
+2014,Uttar Pradesh,Pratapgarh,235,235,0.235,12,12,0.012
+2014,Uttar Pradesh,Barabanki,236,236,0.236,12,12,0.012
+2014,Uttarakhand,Nainital,237,237,0.237,16,16,0.016
+2014,Uttarakhand,Almorah,238,238,0.238,16,16,0.016
+2014,Uttarakhand,Pithorgarh,239,239,0.239,16,16,0.016
+2014,Uttarakhand,Chamoli,240,240,0.24,16,16,0.016
+2014,Uttarakhand,Uttar Kashi,241,241,0.241,16,16,0.016
+2014,Uttarakhand,Tehri Garhwal,242,242,0.242,16,16,0.016
+2014,Uttarakhand,Garhwal,243,243,0.243,16,16,0.016
+2014,Uttarakhand,Dehradun,244,244,0.244,16,16,0.016
+2014,Assam,Cachar,601,601,0.601,17,17,0.017
+2014,Assam,Darrang,602,602,0.602,17,17,0.017
+2014,Assam,Dibrugarh,603,603,0.603,17,17,0.017
+2014,Assam,Goalpara,604,604,0.604,17,17,0.017
+2014,Assam,Kamrup,605,605,0.605,17,17,0.017
+2014,Assam,Karbi Anglong,606,606,0.606,17,17,0.017
+2014,Assam,Lakhimpur,607,607,0.607,17,17,0.017
+2014,Assam,Nagaon,609,609,0.609,17,17,0.017
+2014,Himachal Pradesh,Bilashpur,626,626,0.626,18,18,0.018
+2014,Himachal Pradesh,Chamba,627,627,0.627,18,18,0.018
+2014,Himachal Pradesh,Kangra,629,629,0.629,18,18,0.018
+2014,Himachal Pradesh,Kinnaur,630,630,0.63,18,18,0.018
+2014,Himachal Pradesh,Kullu,631,631,0.631,18,18,0.018
+2014,Himachal Pradesh,Lahul & Spiti,632,632,0.632,18,18,0.018
+2014,Himachal Pradesh,Solan,633,633,0.633,18,18,0.018
+2014,Himachal Pradesh,Mandi,634,634,0.634,18,18,0.018
+2014,Himachal Pradesh,Shimla,635,635,0.635,18,18,0.018
+2014,Himachal Pradesh,Sirmaur,636,636,0.636,18,18,0.018
+2014,Kerala,Alappuzha,651,651,0.651,19,19,0.019
+2014,Kerala,Kannur,652,652,0.652,19,19,0.019
+2014,Kerala,Kottayam,655,655,0.655,19,19,0.019
+2014,Kerala,Kozhikode,656,656,0.656,19,19,0.019
+2014,Kerala,Malappuram,657,657,0.657,19,19,0.019
+2014,Kerala,Palakkad,658,658,0.658,19,19,0.019
+2014,Kerala,Kollam,659,659,0.659,19,19,0.019
+2014,Kerala,Thrissur,660,660,0.66,19,19,0.019
+2014,Kerala,Thiruvananthapuram,661,661,0.661,19,19,0.019
+2014,Bihar,Champaran,901,901,0.901,2,2,0.002
+2014,Bihar,Muzaffarpur,902,902,0.902,2,2,0.002
+2014,Bihar,Darbhanga,903,903,0.903,2,2,0.002
+2014,Bihar,Saharsa,904,904,0.904,2,2,0.002
+2014,Bihar,Saran,906,906,0.906,2,2,0.002
+2014,Bihar,Patna,907,907,0.907,2,2,0.002
+2014,Bihar,Mungair,908,908,0.908,2,2,0.002
+2014,Bihar,Bhagalpur,909,909,0.909,2,2,0.002
+2014,Bihar,Shahabad (now part of Bhojpur district),911,911,0.911,2,2,0.002
+2014,Bihar,Gaya,912,912,0.912,2,2,0.002
+2014,Jharkhand,Santhal Paragana / Dumka,910,910,0.91,15,15,0.015
+2014,Jharkhand,Hazaribagh,913,913,0.913,15,15,0.015
+2014,Jharkhand,Dhanbad,914,914,0.914,15,15,0.015
+2014,Jharkhand,Palamau,915,915,0.915,15,15,0.015
+2014,Jharkhand,Ranchi,916,916,0.916,15,15,0.015
+2014,Jharkhand,Singhbhum,917,917,0.917,15,15,0.015
+2015,Chhattisgarh,Durg,1,1,0.001,14,14,0.014
+2015,Chhattisgarh,Bastar,2,2,0.002,14,14,0.014
+2015,Chhattisgarh,Raipur,3,3,0.003,14,14,0.014
+2015,Chhattisgarh,Bilaspur,4,4,0.004,14,14,0.014
+2015,Chhattisgarh,Raigarh,5,5,0.005,14,14,0.014
+2015,Chhattisgarh,Surguja,6,6,0.006,14,14,0.014
+2015,Madhya Pradesh,Jabalpur,7,7,0.007,6,6,0.006
+2015,Madhya Pradesh,Balaghat,8,8,0.008,6,6,0.006
+2015,Madhya Pradesh,Chhindwara,9,9,0.009,6,6,0.006
+2015,Madhya Pradesh,Narsinghpur,10,10,0.01,6,6,0.006
+2015,Madhya Pradesh,Seoni / Shivani,11,11,0.011,6,6,0.006
+2015,Madhya Pradesh,Mandla,12,12,0.012,6,6,0.006
+2015,Madhya Pradesh,Sagar,13,13,0.013,6,6,0.006
+2015,Madhya Pradesh,Damoh,14,14,0.014,6,6,0.006
+2015,Madhya Pradesh,Tikamgarh,15,15,0.015,6,6,0.006
+2015,Madhya Pradesh,Chhatarpur,16,16,0.016,6,6,0.006
+2015,Madhya Pradesh,Panna,17,17,0.017,6,6,0.006
+2015,Madhya Pradesh,Rewa,18,18,0.018,6,6,0.006
+2015,Madhya Pradesh,Sidhi,19,19,0.019,6,6,0.006
+2015,Madhya Pradesh,Satna,20,20,0.02,6,6,0.006
+2015,Madhya Pradesh,Shahdol,21,21,0.021,6,6,0.006
+2015,Madhya Pradesh,Gwalior,22,22,0.022,6,6,0.006
+2015,Madhya Pradesh,Shivpuri,23,23,0.023,6,6,0.006
+2015,Madhya Pradesh,Guna,24,24,0.024,6,6,0.006
+2015,Madhya Pradesh,Datia,25,25,0.025,6,6,0.006
+2015,Madhya Pradesh,Morena,26,26,0.026,6,6,0.006
+2015,Madhya Pradesh,Bhind,27,27,0.027,6,6,0.006
+2015,Madhya Pradesh,Indore,28,28,0.028,6,6,0.006
+2015,Madhya Pradesh,Ratlam,29,29,0.029,6,6,0.006
+2015,Madhya Pradesh,Ujjain,30,30,0.03,6,6,0.006
+2015,Madhya Pradesh,Mandsaur,31,31,0.031,6,6,0.006
+2015,Madhya Pradesh,Dewas,32,32,0.032,6,6,0.006
+2015,Madhya Pradesh,Dhar,33,33,0.033,6,6,0.006
+2015,Madhya Pradesh,Jhabua,34,34,0.034,6,6,0.006
+2015,Madhya Pradesh,Sehore,37,37,0.037,6,6,0.006
+2015,Madhya Pradesh,Raisen,38,38,0.038,6,6,0.006
+2015,Madhya Pradesh,Vidisha,39,39,0.039,6,6,0.006
+2015,Madhya Pradesh,Betul,40,40,0.04,6,6,0.006
+2015,Madhya Pradesh,Rajgarh,41,41,0.041,6,6,0.006
+2015,Madhya Pradesh,Shajapur,42,42,0.042,6,6,0.006
+2015,Madhya Pradesh,Hoshangabad,43,43,0.043,6,6,0.006
+2015,Andhra Pradesh,Srikakulam,44,44,0.044,1,1,0.001
+2015,Andhra Pradesh,Visakhapatnam,45,45,0.045,1,1,0.001
+2015,Andhra Pradesh,East Godavari,46,46,0.046,1,1,0.001
+2015,Andhra Pradesh,West Godavari,47,47,0.047,1,1,0.001
+2015,Andhra Pradesh,Krishna,48,48,0.048,1,1,0.001
+2015,Andhra Pradesh,Guntur,49,49,0.049,1,1,0.001
+2015,Andhra Pradesh,S.P.S. Nellore,50,50,0.05,1,1,0.001
+2015,Andhra Pradesh,Kurnool,51,51,0.051,1,1,0.001
+2015,Andhra Pradesh,Ananthapur,52,52,0.052,1,1,0.001
+2015,Andhra Pradesh,Kadapa YSR,53,53,0.053,1,1,0.001
+2015,Andhra Pradesh,Chittoor,54,54,0.054,1,1,0.001
+2015,Telangana,Hyderabad,55,55,0.055,20,20,0.02
+2015,Telangana,Nizamabad,56,56,0.056,20,20,0.02
+2015,Telangana,Medak,57,57,0.057,20,20,0.02
+2015,Telangana,Mahabubnagar,58,58,0.058,20,20,0.02
+2015,Telangana,Nalgonda,59,59,0.059,20,20,0.02
+2015,Telangana,Warangal,60,60,0.06,20,20,0.02
+2015,Telangana,Khammam,61,61,0.061,20,20,0.02
+2015,Telangana,Karimnagar,62,62,0.062,20,20,0.02
+2015,Telangana,Adilabad,63,63,0.063,20,20,0.02
+2015,Karnataka,Bangalore,64,64,0.064,5,5,0.005
+2015,Karnataka,Kolar,65,65,0.065,5,5,0.005
+2015,Karnataka,Tumkur,66,66,0.066,5,5,0.005
+2015,Karnataka,Mysore,67,67,0.067,5,5,0.005
+2015,Karnataka,Mandya,68,68,0.068,5,5,0.005
+2015,Karnataka,Hassan,69,69,0.069,5,5,0.005
+2015,Karnataka,Chitradurga,72,72,0.072,5,5,0.005
+2015,Karnataka,Bellary,73,73,0.073,5,5,0.005
+2015,Karnataka,Dharwad,74,74,0.074,5,5,0.005
+2015,Karnataka,Belgaum,75,75,0.075,5,5,0.005
+2015,Karnataka,Bijapur / Vijayapura,76,76,0.076,5,5,0.005
+2015,Karnataka,Bidar,77,77,0.077,5,5,0.005
+2015,Karnataka,Raichur,78,78,0.078,5,5,0.005
+2015,Karnataka,Gulbarga / Kalaburagi,79,79,0.079,5,5,0.005
+2015,Karnataka,Dakshina Kannada,80,80,0.08,5,5,0.005
+2015,Karnataka,Uttara Kannada,81,81,0.081,5,5,0.005
+2015,Karnataka,Kodagu / Coorg,82,82,0.082,5,5,0.005
+2015,Tamil Nadu,South Arcot / Cuddalore,84,84,0.084,11,11,0.011
+2015,Tamil Nadu,North Arcot / Vellore,85,85,0.085,11,11,0.011
+2015,Tamil Nadu,Salem,86,86,0.086,11,11,0.011
+2015,Tamil Nadu,Coimbatore,87,87,0.087,11,11,0.011
+2015,Tamil Nadu,Tiruchirapalli / Trichy,88,88,0.088,11,11,0.011
+2015,Tamil Nadu,Thanjavur,89,89,0.089,11,11,0.011
+2015,Tamil Nadu,Madurai,90,90,0.09,11,11,0.011
+2015,Tamil Nadu,Ramananthapuram,91,91,0.091,11,11,0.011
+2015,Tamil Nadu,Thirunelveli,92,92,0.092,11,11,0.011
+2015,Tamil Nadu,The Nilgiris,93,93,0.093,11,11,0.011
+2015,Tamil Nadu,Kanyakumari,94,94,0.094,11,11,0.011
+2015,Maharashtra,Thane,96,96,0.096,7,7,0.007
+2015,Maharashtra,Raigad,97,97,0.097,7,7,0.007
+2015,Maharashtra,Ratnagiri,98,98,0.098,7,7,0.007
+2015,Maharashtra,Dhule,100,100,0.1,7,7,0.007
+2015,Maharashtra,Jalgaon,101,101,0.101,7,7,0.007
+2015,Maharashtra,Ahmednagar,102,102,0.102,7,7,0.007
+2015,Maharashtra,Pune,103,103,0.103,7,7,0.007
+2015,Maharashtra,Satara,104,104,0.104,7,7,0.007
+2015,Maharashtra,Sangli,105,105,0.105,7,7,0.007
+2015,Maharashtra,Solapur,106,106,0.106,7,7,0.007
+2015,Maharashtra,Kolhapur,107,107,0.107,7,7,0.007
+2015,Maharashtra,Aurangabad,108,108,0.108,7,7,0.007
+2015,Maharashtra,Parbhani,109,109,0.109,7,7,0.007
+2015,Maharashtra,Beed,110,110,0.11,7,7,0.007
+2015,Maharashtra,Nanded,111,111,0.111,7,7,0.007
+2015,Maharashtra,Osmanabad,112,112,0.112,7,7,0.007
+2015,Maharashtra,Buldhana,113,113,0.113,7,7,0.007
+2015,Maharashtra,Akola,114,114,0.114,7,7,0.007
+2015,Maharashtra,Amarawati,115,115,0.115,7,7,0.007
+2015,Maharashtra,Wardha,117,117,0.117,7,7,0.007
+2015,Maharashtra,Nagpur,118,118,0.118,7,7,0.007
+2015,Maharashtra,Bhandara,119,119,0.119,7,7,0.007
+2015,Maharashtra,Chandrapur,120,120,0.12,7,7,0.007
+2015,Gujarat,Ahmedabad,121,121,0.121,3,3,0.003
+2015,Gujarat,Amreli,122,122,0.122,3,3,0.003
+2015,Gujarat,Banaskantha,123,123,0.123,3,3,0.003
+2015,Gujarat,Bharuch,124,124,0.124,3,3,0.003
+2015,Gujarat,Vadodara / Baroda,125,125,0.125,3,3,0.003
+2015,Gujarat,Bhavnagar,126,126,0.126,3,3,0.003
+2015,Gujarat,Valsad,127,127,0.127,3,3,0.003
+2015,Gujarat,Dangs,128,128,0.128,3,3,0.003
+2015,Gujarat,Jamnagar,129,129,0.129,3,3,0.003
+2015,Gujarat,Junagadh,130,130,0.13,3,3,0.003
+2015,Gujarat,Kheda,131,131,0.131,3,3,0.003
+2015,Gujarat,Rajkot,135,135,0.135,3,3,0.003
+2015,Gujarat,Sabarkantha,136,136,0.136,3,3,0.003
+2015,Gujarat,Surat,137,137,0.137,3,3,0.003
+2015,Gujarat,Surendranagar,138,138,0.138,3,3,0.003
+2015,Rajasthan,Ajmer,139,139,0.139,10,10,0.01
+2015,Rajasthan,Alwar,140,140,0.14,10,10,0.01
+2015,Rajasthan,Banswara,141,141,0.141,10,10,0.01
+2015,Rajasthan,Barmer,142,142,0.142,10,10,0.01
+2015,Rajasthan,Bharatpur,143,143,0.143,10,10,0.01
+2015,Rajasthan,Bhilwara,144,144,0.144,10,10,0.01
+2015,Rajasthan,Bikaner,145,145,0.145,10,10,0.01
+2015,Rajasthan,Bundi,146,146,0.146,10,10,0.01
+2015,Rajasthan,Chittorgarh,147,147,0.147,10,10,0.01
+2015,Rajasthan,Churu,148,148,0.148,10,10,0.01
+2015,Rajasthan,Dungarpur,149,149,0.149,10,10,0.01
+2015,Rajasthan,Ganganagar,150,150,0.15,10,10,0.01
+2015,Rajasthan,Jaipur,151,151,0.151,10,10,0.01
+2015,Rajasthan,Jaisalmer,152,152,0.152,10,10,0.01
+2015,Rajasthan,Jalore,153,153,0.153,10,10,0.01
+2015,Rajasthan,Jhalawar,154,154,0.154,10,10,0.01
+2015,Rajasthan,Jodhpur,156,156,0.156,10,10,0.01
+2015,Rajasthan,Kota,157,157,0.157,10,10,0.01
+2015,Rajasthan,Nagaur,158,158,0.158,10,10,0.01
+2015,Rajasthan,Pali,159,159,0.159,10,10,0.01
+2015,Rajasthan,Swami Madhopur,160,160,0.16,10,10,0.01
+2015,Rajasthan,Sikar,161,161,0.161,10,10,0.01
+2015,Rajasthan,Sirohi,162,162,0.162,10,10,0.01
+2015,Rajasthan,Tonk,163,163,0.163,10,10,0.01
+2015,Rajasthan,Udaipur,164,164,0.164,10,10,0.01
+2015,Punjab,Gurdaspur,165,165,0.165,9,9,0.009
+2015,Punjab,Amritsar,166,166,0.166,9,9,0.009
+2015,Punjab,Kapurthala,167,167,0.167,9,9,0.009
+2015,Punjab,Jalandhar,168,168,0.168,9,9,0.009
+2015,Punjab,Hoshiarpur,169,169,0.169,9,9,0.009
+2015,Punjab,Roopnagar / Ropar,170,170,0.17,9,9,0.009
+2015,Punjab,Ludhiana,171,171,0.171,9,9,0.009
+2015,Punjab,Ferozpur,172,172,0.172,9,9,0.009
+2015,Punjab,Bhatinda,174,174,0.174,9,9,0.009
+2015,Punjab,Sangrur,175,175,0.175,9,9,0.009
+2015,Punjab,Patiala,176,176,0.176,9,9,0.009
+2015,Haryana,Hissar,177,177,0.177,4,4,0.004
+2015,Haryana,Gurgaon,180,180,0.18,4,4,0.004
+2015,Haryana,Jind,181,181,0.181,4,4,0.004
+2015,Haryana,Mahendragarh / Narnaul,182,182,0.182,4,4,0.004
+2015,Haryana,Ambala,183,183,0.183,4,4,0.004
+2015,Haryana,Karnal,184,184,0.184,4,4,0.004
+2015,Haryana,Rohtak,186,186,0.186,4,4,0.004
+2015,Uttar Pradesh,Saharanpur,189,189,0.189,12,12,0.012
+2015,Uttar Pradesh,Muzaffarnagar,190,190,0.19,12,12,0.012
+2015,Uttar Pradesh,Meerut,191,191,0.191,12,12,0.012
+2015,Uttar Pradesh,Buland Shahar,192,192,0.192,12,12,0.012
+2015,Uttar Pradesh,Aligarh,194,194,0.194,12,12,0.012
+2015,Uttar Pradesh,Mathura,195,195,0.195,12,12,0.012
+2015,Uttar Pradesh,Agra,196,196,0.196,12,12,0.012
+2015,Uttar Pradesh,Mainpuri,197,197,0.197,12,12,0.012
+2015,Uttar Pradesh,Etah,198,198,0.198,12,12,0.012
+2015,Uttar Pradesh,Bareilly,199,199,0.199,12,12,0.012
+2015,Uttar Pradesh,Budaun,200,200,0.2,12,12,0.012
+2015,Uttar Pradesh,Moradabad,201,201,0.201,12,12,0.012
+2015,Uttar Pradesh,Shahjahanpur,202,202,0.202,12,12,0.012
+2015,Uttar Pradesh,Pilibhit,203,203,0.203,12,12,0.012
+2015,Uttar Pradesh,Rampur,204,204,0.204,12,12,0.012
+2015,Uttar Pradesh,Bijnor,205,205,0.205,12,12,0.012
+2015,Uttar Pradesh,Farrukhabad,206,206,0.206,12,12,0.012
+2015,Uttar Pradesh,Etawah,207,207,0.207,12,12,0.012
+2015,Uttar Pradesh,Kanpur,208,208,0.208,12,12,0.012
+2015,Uttar Pradesh,Fatehpur,209,209,0.209,12,12,0.012
+2015,Uttar Pradesh,Allahabad,210,210,0.21,12,12,0.012
+2015,Uttar Pradesh,Jhansi,211,211,0.211,12,12,0.012
+2015,Uttar Pradesh,Jalaun,213,213,0.213,12,12,0.012
+2015,Uttar Pradesh,Hamirpur,214,214,0.214,12,12,0.012
+2015,Uttar Pradesh,Banda,215,215,0.215,12,12,0.012
+2015,Uttar Pradesh,Varanasi,216,216,0.216,12,12,0.012
+2015,Uttar Pradesh,Jaunpur,218,218,0.218,12,12,0.012
+2015,Uttar Pradesh,Ghazipur,219,219,0.219,12,12,0.012
+2015,Uttar Pradesh,Ballia,220,220,0.22,12,12,0.012
+2015,Uttar Pradesh,Gorakhpur,221,221,0.221,12,12,0.012
+2015,Uttar Pradesh,Deoria,222,222,0.222,12,12,0.012
+2015,Uttar Pradesh,Basti,223,223,0.223,12,12,0.012
+2015,Uttar Pradesh,Azamgarh,224,224,0.224,12,12,0.012
+2015,Uttar Pradesh,Lucknow,225,225,0.225,12,12,0.012
+2015,Uttar Pradesh,Unnao,226,226,0.226,12,12,0.012
+2015,Uttar Pradesh,Rae-Bareily,227,227,0.227,12,12,0.012
+2015,Uttar Pradesh,Sitapur,228,228,0.228,12,12,0.012
+2015,Uttar Pradesh,Hardoi,229,229,0.229,12,12,0.012
+2015,Uttar Pradesh,Kheri,230,230,0.23,12,12,0.012
+2015,Uttar Pradesh,Faizabad,231,231,0.231,12,12,0.012
+2015,Uttar Pradesh,Gonda,232,232,0.232,12,12,0.012
+2015,Uttar Pradesh,Bahraich,233,233,0.233,12,12,0.012
+2015,Uttar Pradesh,Sultanpur,234,234,0.234,12,12,0.012
+2015,Uttar Pradesh,Pratapgarh,235,235,0.235,12,12,0.012
+2015,Uttar Pradesh,Barabanki,236,236,0.236,12,12,0.012
+2015,Uttarakhand,Nainital,237,237,0.237,16,16,0.016
+2015,Uttarakhand,Almorah,238,238,0.238,16,16,0.016
+2015,Uttarakhand,Pithorgarh,239,239,0.239,16,16,0.016
+2015,Uttarakhand,Chamoli,240,240,0.24,16,16,0.016
+2015,Uttarakhand,Uttar Kashi,241,241,0.241,16,16,0.016
+2015,Uttarakhand,Tehri Garhwal,242,242,0.242,16,16,0.016
+2015,Uttarakhand,Garhwal,243,243,0.243,16,16,0.016
+2015,Uttarakhand,Dehradun,244,244,0.244,16,16,0.016
+2015,Assam,Cachar,601,601,0.601,17,17,0.017
+2015,Assam,Darrang,602,602,0.602,17,17,0.017
+2015,Assam,Dibrugarh,603,603,0.603,17,17,0.017
+2015,Assam,Goalpara,604,604,0.604,17,17,0.017
+2015,Assam,Kamrup,605,605,0.605,17,17,0.017
+2015,Assam,Karbi Anglong,606,606,0.606,17,17,0.017
+2015,Assam,Lakhimpur,607,607,0.607,17,17,0.017
+2015,Assam,Nagaon,609,609,0.609,17,17,0.017
+2015,Himachal Pradesh,Bilashpur,626,626,0.626,18,18,0.018
+2015,Himachal Pradesh,Chamba,627,627,0.627,18,18,0.018
+2015,Himachal Pradesh,Kangra,629,629,0.629,18,18,0.018
+2015,Himachal Pradesh,Kinnaur,630,630,0.63,18,18,0.018
+2015,Himachal Pradesh,Kullu,631,631,0.631,18,18,0.018
+2015,Himachal Pradesh,Lahul & Spiti,632,632,0.632,18,18,0.018
+2015,Himachal Pradesh,Solan,633,633,0.633,18,18,0.018
+2015,Himachal Pradesh,Mandi,634,634,0.634,18,18,0.018
+2015,Himachal Pradesh,Shimla,635,635,0.635,18,18,0.018
+2015,Himachal Pradesh,Sirmaur,636,636,0.636,18,18,0.018
+2015,Kerala,Alappuzha,651,651,0.651,19,19,0.019
+2015,Kerala,Kannur,652,652,0.652,19,19,0.019
+2015,Kerala,Kottayam,655,655,0.655,19,19,0.019
+2015,Kerala,Kozhikode,656,656,0.656,19,19,0.019
+2015,Kerala,Malappuram,657,657,0.657,19,19,0.019
+2015,Kerala,Palakkad,658,658,0.658,19,19,0.019
+2015,Kerala,Kollam,659,659,0.659,19,19,0.019
+2015,Kerala,Thrissur,660,660,0.66,19,19,0.019
+2015,Kerala,Thiruvananthapuram,661,661,0.661,19,19,0.019
+2015,Bihar,Champaran,901,901,0.901,2,2,0.002
+2015,Bihar,Muzaffarpur,902,902,0.902,2,2,0.002
+2015,Bihar,Darbhanga,903,903,0.903,2,2,0.002
+2015,Bihar,Saharsa,904,904,0.904,2,2,0.002
+2015,Bihar,Saran,906,906,0.906,2,2,0.002
+2015,Bihar,Patna,907,907,0.907,2,2,0.002
+2015,Bihar,Mungair,908,908,0.908,2,2,0.002
+2015,Bihar,Bhagalpur,909,909,0.909,2,2,0.002
+2015,Bihar,Shahabad (now part of Bhojpur district),911,911,0.911,2,2,0.002
+2015,Bihar,Gaya,912,912,0.912,2,2,0.002
+2015,Jharkhand,Santhal Paragana / Dumka,910,910,0.91,15,15,0.015
+2015,Jharkhand,Hazaribagh,913,913,0.913,15,15,0.015
+2015,Jharkhand,Dhanbad,914,914,0.914,15,15,0.015
+2015,Jharkhand,Palamau,915,915,0.915,15,15,0.015
+2015,Jharkhand,Ranchi,916,916,0.916,15,15,0.015
+2015,Jharkhand,Singhbhum,917,917,0.917,15,15,0.015
+2016,Chhattisgarh,Durg,1,1,0.001,14,14,0.014
+2016,Chhattisgarh,Bastar,2,2,0.002,14,14,0.014
+2016,Chhattisgarh,Raipur,3,3,0.003,14,14,0.014
+2016,Chhattisgarh,Bilaspur,4,4,0.004,14,14,0.014
+2016,Chhattisgarh,Raigarh,5,5,0.005,14,14,0.014
+2016,Chhattisgarh,Surguja,6,6,0.006,14,14,0.014
+2016,Madhya Pradesh,Jabalpur,7,7,0.007,6,6,0.006
+2016,Madhya Pradesh,Balaghat,8,8,0.008,6,6,0.006
+2016,Madhya Pradesh,Chhindwara,9,9,0.009,6,6,0.006
+2016,Madhya Pradesh,Narsinghpur,10,10,0.01,6,6,0.006
+2016,Madhya Pradesh,Seoni / Shivani,11,11,0.011,6,6,0.006
+2016,Madhya Pradesh,Mandla,12,12,0.012,6,6,0.006
+2016,Madhya Pradesh,Sagar,13,13,0.013,6,6,0.006
+2016,Madhya Pradesh,Damoh,14,14,0.014,6,6,0.006
+2016,Madhya Pradesh,Tikamgarh,15,15,0.015,6,6,0.006
+2016,Madhya Pradesh,Chhatarpur,16,16,0.016,6,6,0.006
+2016,Madhya Pradesh,Panna,17,17,0.017,6,6,0.006
+2016,Madhya Pradesh,Rewa,18,18,0.018,6,6,0.006
+2016,Madhya Pradesh,Sidhi,19,19,0.019,6,6,0.006
+2016,Madhya Pradesh,Satna,20,20,0.02,6,6,0.006
+2016,Madhya Pradesh,Shahdol,21,21,0.021,6,6,0.006
+2016,Madhya Pradesh,Gwalior,22,22,0.022,6,6,0.006
+2016,Madhya Pradesh,Shivpuri,23,23,0.023,6,6,0.006
+2016,Madhya Pradesh,Guna,24,24,0.024,6,6,0.006
+2016,Madhya Pradesh,Datia,25,25,0.025,6,6,0.006
+2016,Madhya Pradesh,Morena,26,26,0.026,6,6,0.006
+2016,Madhya Pradesh,Bhind,27,27,0.027,6,6,0.006
+2016,Madhya Pradesh,Indore,28,28,0.028,6,6,0.006
+2016,Madhya Pradesh,Ratlam,29,29,0.029,6,6,0.006
+2016,Madhya Pradesh,Ujjain,30,30,0.03,6,6,0.006
+2016,Madhya Pradesh,Mandsaur,31,31,0.031,6,6,0.006
+2016,Madhya Pradesh,Dewas,32,32,0.032,6,6,0.006
+2016,Madhya Pradesh,Dhar,33,33,0.033,6,6,0.006
+2016,Madhya Pradesh,Jhabua,34,34,0.034,6,6,0.006
+2016,Madhya Pradesh,Sehore,37,37,0.037,6,6,0.006
+2016,Madhya Pradesh,Raisen,38,38,0.038,6,6,0.006
+2016,Madhya Pradesh,Vidisha,39,39,0.039,6,6,0.006
+2016,Madhya Pradesh,Betul,40,40,0.04,6,6,0.006
+2016,Madhya Pradesh,Rajgarh,41,41,0.041,6,6,0.006
+2016,Madhya Pradesh,Shajapur,42,42,0.042,6,6,0.006
+2016,Madhya Pradesh,Hoshangabad,43,43,0.043,6,6,0.006
+2016,Andhra Pradesh,Srikakulam,44,44,0.044,1,1,0.001
+2016,Andhra Pradesh,Visakhapatnam,45,45,0.045,1,1,0.001
+2016,Andhra Pradesh,East Godavari,46,46,0.046,1,1,0.001
+2016,Andhra Pradesh,West Godavari,47,47,0.047,1,1,0.001
+2016,Andhra Pradesh,Krishna,48,48,0.048,1,1,0.001
+2016,Andhra Pradesh,Guntur,49,49,0.049,1,1,0.001
+2016,Andhra Pradesh,S.P.S. Nellore,50,50,0.05,1,1,0.001
+2016,Andhra Pradesh,Kurnool,51,51,0.051,1,1,0.001
+2016,Andhra Pradesh,Ananthapur,52,52,0.052,1,1,0.001
+2016,Andhra Pradesh,Kadapa YSR,53,53,0.053,1,1,0.001
+2016,Andhra Pradesh,Chittoor,54,54,0.054,1,1,0.001
+2016,Telangana,Hyderabad,55,55,0.055,20,20,0.02
+2016,Telangana,Nizamabad,56,56,0.056,20,20,0.02
+2016,Telangana,Medak,57,57,0.057,20,20,0.02
+2016,Telangana,Mahabubnagar,58,58,0.058,20,20,0.02
+2016,Telangana,Nalgonda,59,59,0.059,20,20,0.02
+2016,Telangana,Warangal,60,60,0.06,20,20,0.02
+2016,Telangana,Khammam,61,61,0.061,20,20,0.02
+2016,Telangana,Karimnagar,62,62,0.062,20,20,0.02
+2016,Telangana,Adilabad,63,63,0.063,20,20,0.02
+2016,Karnataka,Bangalore,64,64,0.064,5,5,0.005
+2016,Karnataka,Kolar,65,65,0.065,5,5,0.005
+2016,Karnataka,Tumkur,66,66,0.066,5,5,0.005
+2016,Karnataka,Mysore,67,67,0.067,5,5,0.005
+2016,Karnataka,Mandya,68,68,0.068,5,5,0.005
+2016,Karnataka,Hassan,69,69,0.069,5,5,0.005
+2016,Karnataka,Chitradurga,72,72,0.072,5,5,0.005
+2016,Karnataka,Bellary,73,73,0.073,5,5,0.005
+2016,Karnataka,Dharwad,74,74,0.074,5,5,0.005
+2016,Karnataka,Belgaum,75,75,0.075,5,5,0.005
+2016,Karnataka,Bijapur / Vijayapura,76,76,0.076,5,5,0.005
+2016,Karnataka,Bidar,77,77,0.077,5,5,0.005
+2016,Karnataka,Raichur,78,78,0.078,5,5,0.005
+2016,Karnataka,Gulbarga / Kalaburagi,79,79,0.079,5,5,0.005
+2016,Karnataka,Dakshina Kannada,80,80,0.08,5,5,0.005
+2016,Karnataka,Uttara Kannada,81,81,0.081,5,5,0.005
+2016,Karnataka,Kodagu / Coorg,82,82,0.082,5,5,0.005
+2016,Tamil Nadu,South Arcot / Cuddalore,84,84,0.084,11,11,0.011
+2016,Tamil Nadu,North Arcot / Vellore,85,85,0.085,11,11,0.011
+2016,Tamil Nadu,Salem,86,86,0.086,11,11,0.011
+2016,Tamil Nadu,Coimbatore,87,87,0.087,11,11,0.011
+2016,Tamil Nadu,Tiruchirapalli / Trichy,88,88,0.088,11,11,0.011
+2016,Tamil Nadu,Thanjavur,89,89,0.089,11,11,0.011
+2016,Tamil Nadu,Madurai,90,90,0.09,11,11,0.011
+2016,Tamil Nadu,Ramananthapuram,91,91,0.091,11,11,0.011
+2016,Tamil Nadu,Thirunelveli,92,92,0.092,11,11,0.011
+2016,Tamil Nadu,The Nilgiris,93,93,0.093,11,11,0.011
+2016,Tamil Nadu,Kanyakumari,94,94,0.094,11,11,0.011
+2016,Maharashtra,Bombay,95,95,0.095,7,7,0.007
+2016,Maharashtra,Thane,96,96,0.096,7,7,0.007
+2016,Maharashtra,Raigad,97,97,0.097,7,7,0.007
+2016,Maharashtra,Ratnagiri,98,98,0.098,7,7,0.007
+2016,Maharashtra,Dhule,100,100,0.1,7,7,0.007
+2016,Maharashtra,Jalgaon,101,101,0.101,7,7,0.007
+2016,Maharashtra,Ahmednagar,102,102,0.102,7,7,0.007
+2016,Maharashtra,Pune,103,103,0.103,7,7,0.007
+2016,Maharashtra,Satara,104,104,0.104,7,7,0.007
+2016,Maharashtra,Sangli,105,105,0.105,7,7,0.007
+2016,Maharashtra,Solapur,106,106,0.106,7,7,0.007
+2016,Maharashtra,Kolhapur,107,107,0.107,7,7,0.007
+2016,Maharashtra,Aurangabad,108,108,0.108,7,7,0.007
+2016,Maharashtra,Parbhani,109,109,0.109,7,7,0.007
+2016,Maharashtra,Beed,110,110,0.11,7,7,0.007
+2016,Maharashtra,Nanded,111,111,0.111,7,7,0.007
+2016,Maharashtra,Osmanabad,112,112,0.112,7,7,0.007
+2016,Maharashtra,Buldhana,113,113,0.113,7,7,0.007
+2016,Maharashtra,Akola,114,114,0.114,7,7,0.007
+2016,Maharashtra,Amarawati,115,115,0.115,7,7,0.007
+2016,Maharashtra,Wardha,117,117,0.117,7,7,0.007
+2016,Maharashtra,Nagpur,118,118,0.118,7,7,0.007
+2016,Maharashtra,Bhandara,119,119,0.119,7,7,0.007
+2016,Maharashtra,Chandrapur,120,120,0.12,7,7,0.007
+2016,Gujarat,Ahmedabad,121,121,0.121,3,3,0.003
+2016,Gujarat,Amreli,122,122,0.122,3,3,0.003
+2016,Gujarat,Banaskantha,123,123,0.123,3,3,0.003
+2016,Gujarat,Bharuch,124,124,0.124,3,3,0.003
+2016,Gujarat,Vadodara / Baroda,125,125,0.125,3,3,0.003
+2016,Gujarat,Bhavnagar,126,126,0.126,3,3,0.003
+2016,Gujarat,Valsad,127,127,0.127,3,3,0.003
+2016,Gujarat,Dangs,128,128,0.128,3,3,0.003
+2016,Gujarat,Jamnagar,129,129,0.129,3,3,0.003
+2016,Gujarat,Junagadh,130,130,0.13,3,3,0.003
+2016,Gujarat,Kheda,131,131,0.131,3,3,0.003
+2016,Gujarat,Rajkot,135,135,0.135,3,3,0.003
+2016,Gujarat,Sabarkantha,136,136,0.136,3,3,0.003
+2016,Gujarat,Surat,137,137,0.137,3,3,0.003
+2016,Gujarat,Surendranagar,138,138,0.138,3,3,0.003
+2016,Rajasthan,Ajmer,139,139,0.139,10,10,0.01
+2016,Rajasthan,Alwar,140,140,0.14,10,10,0.01
+2016,Rajasthan,Banswara,141,141,0.141,10,10,0.01
+2016,Rajasthan,Barmer,142,142,0.142,10,10,0.01
+2016,Rajasthan,Bharatpur,143,143,0.143,10,10,0.01
+2016,Rajasthan,Bhilwara,144,144,0.144,10,10,0.01
+2016,Rajasthan,Bikaner,145,145,0.145,10,10,0.01
+2016,Rajasthan,Bundi,146,146,0.146,10,10,0.01
+2016,Rajasthan,Chittorgarh,147,147,0.147,10,10,0.01
+2016,Rajasthan,Churu,148,148,0.148,10,10,0.01
+2016,Rajasthan,Dungarpur,149,149,0.149,10,10,0.01
+2016,Rajasthan,Ganganagar,150,150,0.15,10,10,0.01
+2016,Rajasthan,Jaipur,151,151,0.151,10,10,0.01
+2016,Rajasthan,Jaisalmer,152,152,0.152,10,10,0.01
+2016,Rajasthan,Jalore,153,153,0.153,10,10,0.01
+2016,Rajasthan,Jhalawar,154,154,0.154,10,10,0.01
+2016,Rajasthan,Jodhpur,156,156,0.156,10,10,0.01
+2016,Rajasthan,Kota,157,157,0.157,10,10,0.01
+2016,Rajasthan,Nagaur,158,158,0.158,10,10,0.01
+2016,Rajasthan,Pali,159,159,0.159,10,10,0.01
+2016,Rajasthan,Swami Madhopur,160,160,0.16,10,10,0.01
+2016,Rajasthan,Sikar,161,161,0.161,10,10,0.01
+2016,Rajasthan,Sirohi,162,162,0.162,10,10,0.01
+2016,Rajasthan,Tonk,163,163,0.163,10,10,0.01
+2016,Rajasthan,Udaipur,164,164,0.164,10,10,0.01
+2016,Punjab,Gurdaspur,165,165,0.165,9,9,0.009
+2016,Punjab,Amritsar,166,166,0.166,9,9,0.009
+2016,Punjab,Kapurthala,167,167,0.167,9,9,0.009
+2016,Punjab,Jalandhar,168,168,0.168,9,9,0.009
+2016,Punjab,Hoshiarpur,169,169,0.169,9,9,0.009
+2016,Punjab,Roopnagar / Ropar,170,170,0.17,9,9,0.009
+2016,Punjab,Ludhiana,171,171,0.171,9,9,0.009
+2016,Punjab,Ferozpur,172,172,0.172,9,9,0.009
+2016,Punjab,Bhatinda,174,174,0.174,9,9,0.009
+2016,Punjab,Sangrur,175,175,0.175,9,9,0.009
+2016,Punjab,Patiala,176,176,0.176,9,9,0.009
+2016,Haryana,Hissar,177,177,0.177,4,4,0.004
+2016,Haryana,Gurgaon,180,180,0.18,4,4,0.004
+2016,Haryana,Jind,181,181,0.181,4,4,0.004
+2016,Haryana,Mahendragarh / Narnaul,182,182,0.182,4,4,0.004
+2016,Haryana,Ambala,183,183,0.183,4,4,0.004
+2016,Haryana,Karnal,184,184,0.184,4,4,0.004
+2016,Haryana,Rohtak,186,186,0.186,4,4,0.004
+2016,Uttar Pradesh,Saharanpur,189,189,0.189,12,12,0.012
+2016,Uttar Pradesh,Muzaffarnagar,190,190,0.19,12,12,0.012
+2016,Uttar Pradesh,Meerut,191,191,0.191,12,12,0.012
+2016,Uttar Pradesh,Buland Shahar,192,192,0.192,12,12,0.012
+2016,Uttar Pradesh,Aligarh,194,194,0.194,12,12,0.012
+2016,Uttar Pradesh,Mathura,195,195,0.195,12,12,0.012
+2016,Uttar Pradesh,Agra,196,196,0.196,12,12,0.012
+2016,Uttar Pradesh,Mainpuri,197,197,0.197,12,12,0.012
+2016,Uttar Pradesh,Etah,198,198,0.198,12,12,0.012
+2016,Uttar Pradesh,Bareilly,199,199,0.199,12,12,0.012
+2016,Uttar Pradesh,Budaun,200,200,0.2,12,12,0.012
+2016,Uttar Pradesh,Moradabad,201,201,0.201,12,12,0.012
+2016,Uttar Pradesh,Shahjahanpur,202,202,0.202,12,12,0.012
+2016,Uttar Pradesh,Pilibhit,203,203,0.203,12,12,0.012
+2016,Uttar Pradesh,Rampur,204,204,0.204,12,12,0.012
+2016,Uttar Pradesh,Bijnor,205,205,0.205,12,12,0.012
+2016,Uttar Pradesh,Farrukhabad,206,206,0.206,12,12,0.012
+2016,Uttar Pradesh,Etawah,207,207,0.207,12,12,0.012
+2016,Uttar Pradesh,Kanpur,208,208,0.208,12,12,0.012
+2016,Uttar Pradesh,Fatehpur,209,209,0.209,12,12,0.012
+2016,Uttar Pradesh,Allahabad,210,210,0.21,12,12,0.012
+2016,Uttar Pradesh,Jhansi,211,211,0.211,12,12,0.012
+2016,Uttar Pradesh,Jalaun,213,213,0.213,12,12,0.012
+2016,Uttar Pradesh,Hamirpur,214,214,0.214,12,12,0.012
+2016,Uttar Pradesh,Banda,215,215,0.215,12,12,0.012
+2016,Uttar Pradesh,Varanasi,216,216,0.216,12,12,0.012
+2016,Uttar Pradesh,Jaunpur,218,218,0.218,12,12,0.012
+2016,Uttar Pradesh,Ghazipur,219,219,0.219,12,12,0.012
+2016,Uttar Pradesh,Ballia,220,220,0.22,12,12,0.012
+2016,Uttar Pradesh,Gorakhpur,221,221,0.221,12,12,0.012
+2016,Uttar Pradesh,Deoria,222,222,0.222,12,12,0.012
+2016,Uttar Pradesh,Basti,223,223,0.223,12,12,0.012
+2016,Uttar Pradesh,Azamgarh,224,224,0.224,12,12,0.012
+2016,Uttar Pradesh,Lucknow,225,225,0.225,12,12,0.012
+2016,Uttar Pradesh,Unnao,226,226,0.226,12,12,0.012
+2016,Uttar Pradesh,Rae-Bareily,227,227,0.227,12,12,0.012
+2016,Uttar Pradesh,Sitapur,228,228,0.228,12,12,0.012
+2016,Uttar Pradesh,Hardoi,229,229,0.229,12,12,0.012
+2016,Uttar Pradesh,Kheri,230,230,0.23,12,12,0.012
+2016,Uttar Pradesh,Faizabad,231,231,0.231,12,12,0.012
+2016,Uttar Pradesh,Gonda,232,232,0.232,12,12,0.012
+2016,Uttar Pradesh,Bahraich,233,233,0.233,12,12,0.012
+2016,Uttar Pradesh,Sultanpur,234,234,0.234,12,12,0.012
+2016,Uttar Pradesh,Pratapgarh,235,235,0.235,12,12,0.012
+2016,Uttar Pradesh,Barabanki,236,236,0.236,12,12,0.012
+2016,Uttarakhand,Nainital,237,237,0.237,16,16,0.016
+2016,Uttarakhand,Almorah,238,238,0.238,16,16,0.016
+2016,Uttarakhand,Pithorgarh,239,239,0.239,16,16,0.016
+2016,Uttarakhand,Chamoli,240,240,0.24,16,16,0.016
+2016,Uttarakhand,Uttar Kashi,241,241,0.241,16,16,0.016
+2016,Uttarakhand,Tehri Garhwal,242,242,0.242,16,16,0.016
+2016,Uttarakhand,Garhwal,243,243,0.243,16,16,0.016
+2016,Uttarakhand,Dehradun,244,244,0.244,16,16,0.016
+2016,Assam,Cachar,601,601,0.601,17,17,0.017
+2016,Assam,Darrang,602,602,0.602,17,17,0.017
+2016,Assam,Dibrugarh,603,603,0.603,17,17,0.017
+2016,Assam,Goalpara,604,604,0.604,17,17,0.017
+2016,Assam,Kamrup,605,605,0.605,17,17,0.017
+2016,Assam,Karbi Anglong,606,606,0.606,17,17,0.017
+2016,Assam,Lakhimpur,607,607,0.607,17,17,0.017
+2016,Assam,Nagaon,609,609,0.609,17,17,0.017
+2016,Himachal Pradesh,Bilashpur,626,626,0.626,18,18,0.018
+2016,Himachal Pradesh,Chamba,627,627,0.627,18,18,0.018
+2016,Himachal Pradesh,Kangra,629,629,0.629,18,18,0.018
+2016,Himachal Pradesh,Kinnaur,630,630,0.63,18,18,0.018
+2016,Himachal Pradesh,Kullu,631,631,0.631,18,18,0.018
+2016,Himachal Pradesh,Lahul & Spiti,632,632,0.632,18,18,0.018
+2016,Himachal Pradesh,Solan,633,633,0.633,18,18,0.018
+2016,Himachal Pradesh,Mandi,634,634,0.634,18,18,0.018
+2016,Himachal Pradesh,Shimla,635,635,0.635,18,18,0.018
+2016,Himachal Pradesh,Sirmaur,636,636,0.636,18,18,0.018
+2016,Kerala,Alappuzha,651,651,0.651,19,19,0.019
+2016,Kerala,Kannur,652,652,0.652,19,19,0.019
+2016,Kerala,Kottayam,655,655,0.655,19,19,0.019
+2016,Kerala,Kozhikode,656,656,0.656,19,19,0.019
+2016,Kerala,Malappuram,657,657,0.657,19,19,0.019
+2016,Kerala,Palakkad,658,658,0.658,19,19,0.019
+2016,Kerala,Kollam,659,659,0.659,19,19,0.019
+2016,Kerala,Thrissur,660,660,0.66,19,19,0.019
+2016,Kerala,Thiruvananthapuram,661,661,0.661,19,19,0.019
+2016,Bihar,Champaran,901,901,0.901,2,2,0.002
+2016,Bihar,Muzaffarpur,902,902,0.902,2,2,0.002
+2016,Bihar,Darbhanga,903,903,0.903,2,2,0.002
+2016,Bihar,Saharsa,904,904,0.904,2,2,0.002
+2016,Bihar,Saran,906,906,0.906,2,2,0.002
+2016,Bihar,Patna,907,907,0.907,2,2,0.002
+2016,Bihar,Mungair,908,908,0.908,2,2,0.002
+2016,Bihar,Bhagalpur,909,909,0.909,2,2,0.002
+2016,Bihar,Shahabad (now part of Bhojpur district),911,911,0.911,2,2,0.002
+2016,Bihar,Gaya,912,912,0.912,2,2,0.002
+2016,Jharkhand,Santhal Paragana / Dumka,910,910,0.91,15,15,0.015
+2016,Jharkhand,Hazaribagh,913,913,0.913,15,15,0.015
+2016,Jharkhand,Dhanbad,914,914,0.914,15,15,0.015
+2016,Jharkhand,Palamau,915,915,0.915,15,15,0.015
+2016,Jharkhand,Ranchi,916,916,0.916,15,15,0.015
+2016,Jharkhand,Singhbhum,917,917,0.917,15,15,0.015
+2017,Chhattisgarh,Durg,1,1,0.001,14,14,0.014
+2017,Chhattisgarh,Bastar,2,2,0.002,14,14,0.014
+2017,Chhattisgarh,Raipur,3,3,0.003,14,14,0.014
+2017,Chhattisgarh,Bilaspur,4,4,0.004,14,14,0.014
+2017,Chhattisgarh,Raigarh,5,5,0.005,14,14,0.014
+2017,Chhattisgarh,Surguja,6,6,0.006,14,14,0.014
+2017,Madhya Pradesh,Jabalpur,7,7,0.007,6,6,0.006
+2017,Madhya Pradesh,Balaghat,8,8,0.008,6,6,0.006
+2017,Madhya Pradesh,Chhindwara,9,9,0.009,6,6,0.006
+2017,Madhya Pradesh,Narsinghpur,10,10,0.01,6,6,0.006
+2017,Madhya Pradesh,Seoni / Shivani,11,11,0.011,6,6,0.006
+2017,Madhya Pradesh,Mandla,12,12,0.012,6,6,0.006
+2017,Madhya Pradesh,Sagar,13,13,0.013,6,6,0.006
+2017,Madhya Pradesh,Damoh,14,14,0.014,6,6,0.006
+2017,Madhya Pradesh,Tikamgarh,15,15,0.015,6,6,0.006
+2017,Madhya Pradesh,Chhatarpur,16,16,0.016,6,6,0.006
+2017,Madhya Pradesh,Panna,17,17,0.017,6,6,0.006
+2017,Madhya Pradesh,Rewa,18,18,0.018,6,6,0.006
+2017,Madhya Pradesh,Sidhi,19,19,0.019,6,6,0.006
+2017,Madhya Pradesh,Satna,20,20,0.02,6,6,0.006
+2017,Madhya Pradesh,Shahdol,21,21,0.021,6,6,0.006
+2017,Madhya Pradesh,Gwalior,22,22,0.022,6,6,0.006
+2017,Madhya Pradesh,Shivpuri,23,23,0.023,6,6,0.006
+2017,Madhya Pradesh,Guna,24,24,0.024,6,6,0.006
+2017,Madhya Pradesh,Datia,25,25,0.025,6,6,0.006
+2017,Madhya Pradesh,Morena,26,26,0.026,6,6,0.006
+2017,Madhya Pradesh,Bhind,27,27,0.027,6,6,0.006
+2017,Madhya Pradesh,Indore,28,28,0.028,6,6,0.006
+2017,Madhya Pradesh,Ratlam,29,29,0.029,6,6,0.006
+2017,Madhya Pradesh,Ujjain,30,30,0.03,6,6,0.006
+2017,Madhya Pradesh,Mandsaur,31,31,0.031,6,6,0.006
+2017,Madhya Pradesh,Dewas,32,32,0.032,6,6,0.006
+2017,Madhya Pradesh,Dhar,33,33,0.033,6,6,0.006
+2017,Madhya Pradesh,Jhabua,34,34,0.034,6,6,0.006
+2017,Madhya Pradesh,Sehore,37,37,0.037,6,6,0.006
+2017,Madhya Pradesh,Raisen,38,38,0.038,6,6,0.006
+2017,Madhya Pradesh,Vidisha,39,39,0.039,6,6,0.006
+2017,Madhya Pradesh,Betul,40,40,0.04,6,6,0.006
+2017,Madhya Pradesh,Rajgarh,41,41,0.041,6,6,0.006
+2017,Madhya Pradesh,Shajapur,42,42,0.042,6,6,0.006
+2017,Madhya Pradesh,Hoshangabad,43,43,0.043,6,6,0.006
+2017,Andhra Pradesh,Srikakulam,44,44,0.044,1,1,0.001
+2017,Andhra Pradesh,Visakhapatnam,45,45,0.045,1,1,0.001
+2017,Andhra Pradesh,East Godavari,46,46,0.046,1,1,0.001
+2017,Andhra Pradesh,West Godavari,47,47,0.047,1,1,0.001
+2017,Andhra Pradesh,Krishna,48,48,0.048,1,1,0.001
+2017,Andhra Pradesh,Guntur,49,49,0.049,1,1,0.001
+2017,Andhra Pradesh,S.P.S. Nellore,50,50,0.05,1,1,0.001
+2017,Andhra Pradesh,Kurnool,51,51,0.051,1,1,0.001
+2017,Andhra Pradesh,Ananthapur,52,52,0.052,1,1,0.001
+2017,Andhra Pradesh,Kadapa YSR,53,53,0.053,1,1,0.001
+2017,Andhra Pradesh,Chittoor,54,54,0.054,1,1,0.001
+2017,Telangana,Hyderabad,55,55,0.055,20,20,0.02
+2017,Telangana,Nizamabad,56,56,0.056,20,20,0.02
+2017,Telangana,Medak,57,57,0.057,20,20,0.02
+2017,Telangana,Mahabubnagar,58,58,0.058,20,20,0.02
+2017,Telangana,Nalgonda,59,59,0.059,20,20,0.02
+2017,Telangana,Warangal,60,60,0.06,20,20,0.02
+2017,Telangana,Khammam,61,61,0.061,20,20,0.02
+2017,Telangana,Karimnagar,62,62,0.062,20,20,0.02
+2017,Telangana,Adilabad,63,63,0.063,20,20,0.02
+2017,Karnataka,Bangalore,64,64,0.064,5,5,0.005
+2017,Karnataka,Kolar,65,65,0.065,5,5,0.005
+2017,Karnataka,Tumkur,66,66,0.066,5,5,0.005
+2017,Karnataka,Mysore,67,67,0.067,5,5,0.005
+2017,Karnataka,Mandya,68,68,0.068,5,5,0.005
+2017,Karnataka,Hassan,69,69,0.069,5,5,0.005
+2017,Karnataka,Chitradurga,72,72,0.072,5,5,0.005
+2017,Karnataka,Bellary,73,73,0.073,5,5,0.005
+2017,Karnataka,Dharwad,74,74,0.074,5,5,0.005
+2017,Karnataka,Belgaum,75,75,0.075,5,5,0.005
+2017,Karnataka,Bijapur / Vijayapura,76,76,0.076,5,5,0.005
+2017,Karnataka,Bidar,77,77,0.077,5,5,0.005
+2017,Karnataka,Raichur,78,78,0.078,5,5,0.005
+2017,Karnataka,Gulbarga / Kalaburagi,79,79,0.079,5,5,0.005
+2017,Karnataka,Dakshina Kannada,80,80,0.08,5,5,0.005
+2017,Karnataka,Uttara Kannada,81,81,0.081,5,5,0.005
+2017,Karnataka,Kodagu / Coorg,82,82,0.082,5,5,0.005
+2017,Tamil Nadu,South Arcot / Cuddalore,84,84,0.084,11,11,0.011
+2017,Tamil Nadu,North Arcot / Vellore,85,85,0.085,11,11,0.011
+2017,Tamil Nadu,Salem,86,86,0.086,11,11,0.011
+2017,Tamil Nadu,Coimbatore,87,87,0.087,11,11,0.011
+2017,Tamil Nadu,Tiruchirapalli / Trichy,88,88,0.088,11,11,0.011
+2017,Tamil Nadu,Thanjavur,89,89,0.089,11,11,0.011
+2017,Tamil Nadu,Madurai,90,90,0.09,11,11,0.011
+2017,Tamil Nadu,Ramananthapuram,91,91,0.091,11,11,0.011
+2017,Tamil Nadu,Thirunelveli,92,92,0.092,11,11,0.011
+2017,Tamil Nadu,The Nilgiris,93,93,0.093,11,11,0.011
+2017,Tamil Nadu,Kanyakumari,94,94,0.094,11,11,0.011
+2017,Maharashtra,Thane,96,96,0.096,7,7,0.007
+2017,Maharashtra,Raigad,97,97,0.097,7,7,0.007
+2017,Maharashtra,Ratnagiri,98,98,0.098,7,7,0.007
+2017,Maharashtra,Dhule,100,100,0.1,7,7,0.007
+2017,Maharashtra,Jalgaon,101,101,0.101,7,7,0.007
+2017,Maharashtra,Ahmednagar,102,102,0.102,7,7,0.007
+2017,Maharashtra,Pune,103,103,0.103,7,7,0.007
+2017,Maharashtra,Satara,104,104,0.104,7,7,0.007
+2017,Maharashtra,Sangli,105,105,0.105,7,7,0.007
+2017,Maharashtra,Solapur,106,106,0.106,7,7,0.007
+2017,Maharashtra,Kolhapur,107,107,0.107,7,7,0.007
+2017,Maharashtra,Aurangabad,108,108,0.108,7,7,0.007
+2017,Maharashtra,Parbhani,109,109,0.109,7,7,0.007
+2017,Maharashtra,Beed,110,110,0.11,7,7,0.007
+2017,Maharashtra,Nanded,111,111,0.111,7,7,0.007
+2017,Maharashtra,Osmanabad,112,112,0.112,7,7,0.007
+2017,Maharashtra,Buldhana,113,113,0.113,7,7,0.007
+2017,Maharashtra,Akola,114,114,0.114,7,7,0.007
+2017,Maharashtra,Amarawati,115,115,0.115,7,7,0.007
+2017,Maharashtra,Wardha,117,117,0.117,7,7,0.007
+2017,Maharashtra,Nagpur,118,118,0.118,7,7,0.007
+2017,Maharashtra,Bhandara,119,119,0.119,7,7,0.007
+2017,Maharashtra,Chandrapur,120,120,0.12,7,7,0.007
+2017,Gujarat,Ahmedabad,121,121,0.121,3,3,0.003
+2017,Gujarat,Amreli,122,122,0.122,3,3,0.003
+2017,Gujarat,Banaskantha,123,123,0.123,3,3,0.003
+2017,Gujarat,Bharuch,124,124,0.124,3,3,0.003
+2017,Gujarat,Vadodara / Baroda,125,125,0.125,3,3,0.003
+2017,Gujarat,Bhavnagar,126,126,0.126,3,3,0.003
+2017,Gujarat,Valsad,127,127,0.127,3,3,0.003
+2017,Gujarat,Dangs,128,128,0.128,3,3,0.003
+2017,Gujarat,Jamnagar,129,129,0.129,3,3,0.003
+2017,Gujarat,Junagadh,130,130,0.13,3,3,0.003
+2017,Gujarat,Kheda,131,131,0.131,3,3,0.003
+2017,Gujarat,Rajkot,135,135,0.135,3,3,0.003
+2017,Gujarat,Sabarkantha,136,136,0.136,3,3,0.003
+2017,Gujarat,Surat,137,137,0.137,3,3,0.003
+2017,Gujarat,Surendranagar,138,138,0.138,3,3,0.003
+2017,Rajasthan,Ajmer,139,139,0.139,10,10,0.01
+2017,Rajasthan,Alwar,140,140,0.14,10,10,0.01
+2017,Rajasthan,Banswara,141,141,0.141,10,10,0.01
+2017,Rajasthan,Barmer,142,142,0.142,10,10,0.01
+2017,Rajasthan,Bharatpur,143,143,0.143,10,10,0.01
+2017,Rajasthan,Bhilwara,144,144,0.144,10,10,0.01
+2017,Rajasthan,Bikaner,145,145,0.145,10,10,0.01
+2017,Rajasthan,Bundi,146,146,0.146,10,10,0.01
+2017,Rajasthan,Chittorgarh,147,147,0.147,10,10,0.01
+2017,Rajasthan,Churu,148,148,0.148,10,10,0.01
+2017,Rajasthan,Dungarpur,149,149,0.149,10,10,0.01
+2017,Rajasthan,Ganganagar,150,150,0.15,10,10,0.01
+2017,Rajasthan,Jaipur,151,151,0.151,10,10,0.01
+2017,Rajasthan,Jaisalmer,152,152,0.152,10,10,0.01
+2017,Rajasthan,Jalore,153,153,0.153,10,10,0.01
+2017,Rajasthan,Jhalawar,154,154,0.154,10,10,0.01
+2017,Rajasthan,Jodhpur,156,156,0.156,10,10,0.01
+2017,Rajasthan,Kota,157,157,0.157,10,10,0.01
+2017,Rajasthan,Nagaur,158,158,0.158,10,10,0.01
+2017,Rajasthan,Pali,159,159,0.159,10,10,0.01
+2017,Rajasthan,Swami Madhopur,160,160,0.16,10,10,0.01
+2017,Rajasthan,Sikar,161,161,0.161,10,10,0.01
+2017,Rajasthan,Sirohi,162,162,0.162,10,10,0.01
+2017,Rajasthan,Tonk,163,163,0.163,10,10,0.01
+2017,Rajasthan,Udaipur,164,164,0.164,10,10,0.01
+2017,Punjab,Gurdaspur,165,165,0.165,9,9,0.009
+2017,Punjab,Amritsar,166,166,0.166,9,9,0.009
+2017,Punjab,Kapurthala,167,167,0.167,9,9,0.009
+2017,Punjab,Jalandhar,168,168,0.168,9,9,0.009
+2017,Punjab,Hoshiarpur,169,169,0.169,9,9,0.009
+2017,Punjab,Roopnagar / Ropar,170,170,0.17,9,9,0.009
+2017,Punjab,Ludhiana,171,171,0.171,9,9,0.009
+2017,Punjab,Ferozpur,172,172,0.172,9,9,0.009
+2017,Punjab,Bhatinda,174,174,0.174,9,9,0.009
+2017,Punjab,Sangrur,175,175,0.175,9,9,0.009
+2017,Punjab,Patiala,176,176,0.176,9,9,0.009
+2017,Haryana,Hissar,177,177,0.177,4,4,0.004
+2017,Haryana,Gurgaon,180,180,0.18,4,4,0.004
+2017,Haryana,Jind,181,181,0.181,4,4,0.004
+2017,Haryana,Mahendragarh / Narnaul,182,182,0.182,4,4,0.004
+2017,Haryana,Ambala,183,183,0.183,4,4,0.004
+2017,Haryana,Karnal,184,184,0.184,4,4,0.004
+2017,Haryana,Rohtak,186,186,0.186,4,4,0.004
+2017,Uttar Pradesh,Saharanpur,189,189,0.189,12,12,0.012
+2017,Uttar Pradesh,Muzaffarnagar,190,190,0.19,12,12,0.012
+2017,Uttar Pradesh,Meerut,191,191,0.191,12,12,0.012
+2017,Uttar Pradesh,Buland Shahar,192,192,0.192,12,12,0.012
+2017,Uttar Pradesh,Aligarh,194,194,0.194,12,12,0.012
+2017,Uttar Pradesh,Mathura,195,195,0.195,12,12,0.012
+2017,Uttar Pradesh,Agra,196,196,0.196,12,12,0.012
+2017,Uttar Pradesh,Mainpuri,197,197,0.197,12,12,0.012
+2017,Uttar Pradesh,Etah,198,198,0.198,12,12,0.012
+2017,Uttar Pradesh,Bareilly,199,199,0.199,12,12,0.012
+2017,Uttar Pradesh,Budaun,200,200,0.2,12,12,0.012
+2017,Uttar Pradesh,Moradabad,201,201,0.201,12,12,0.012
+2017,Uttar Pradesh,Shahjahanpur,202,202,0.202,12,12,0.012
+2017,Uttar Pradesh,Pilibhit,203,203,0.203,12,12,0.012
+2017,Uttar Pradesh,Rampur,204,204,0.204,12,12,0.012
+2017,Uttar Pradesh,Bijnor,205,205,0.205,12,12,0.012
+2017,Uttar Pradesh,Farrukhabad,206,206,0.206,12,12,0.012
+2017,Uttar Pradesh,Etawah,207,207,0.207,12,12,0.012
+2017,Uttar Pradesh,Kanpur,208,208,0.208,12,12,0.012
+2017,Uttar Pradesh,Fatehpur,209,209,0.209,12,12,0.012
+2017,Uttar Pradesh,Allahabad,210,210,0.21,12,12,0.012
+2017,Uttar Pradesh,Jhansi,211,211,0.211,12,12,0.012
+2017,Uttar Pradesh,Jalaun,213,213,0.213,12,12,0.012
+2017,Uttar Pradesh,Hamirpur,214,214,0.214,12,12,0.012
+2017,Uttar Pradesh,Banda,215,215,0.215,12,12,0.012
+2017,Uttar Pradesh,Varanasi,216,216,0.216,12,12,0.012
+2017,Uttar Pradesh,Jaunpur,218,218,0.218,12,12,0.012
+2017,Uttar Pradesh,Ghazipur,219,219,0.219,12,12,0.012
+2017,Uttar Pradesh,Ballia,220,220,0.22,12,12,0.012
+2017,Uttar Pradesh,Gorakhpur,221,221,0.221,12,12,0.012
+2017,Uttar Pradesh,Deoria,222,222,0.222,12,12,0.012
+2017,Uttar Pradesh,Basti,223,223,0.223,12,12,0.012
+2017,Uttar Pradesh,Azamgarh,224,224,0.224,12,12,0.012
+2017,Uttar Pradesh,Lucknow,225,225,0.225,12,12,0.012
+2017,Uttar Pradesh,Unnao,226,226,0.226,12,12,0.012
+2017,Uttar Pradesh,Rae-Bareily,227,227,0.227,12,12,0.012
+2017,Uttar Pradesh,Sitapur,228,228,0.228,12,12,0.012
+2017,Uttar Pradesh,Hardoi,229,229,0.229,12,12,0.012
+2017,Uttar Pradesh,Kheri,230,230,0.23,12,12,0.012
+2017,Uttar Pradesh,Faizabad,231,231,0.231,12,12,0.012
+2017,Uttar Pradesh,Gonda,232,232,0.232,12,12,0.012
+2017,Uttar Pradesh,Bahraich,233,233,0.233,12,12,0.012
+2017,Uttar Pradesh,Sultanpur,234,234,0.234,12,12,0.012
+2017,Uttar Pradesh,Pratapgarh,235,235,0.235,12,12,0.012
+2017,Uttar Pradesh,Barabanki,236,236,0.236,12,12,0.012
+2017,Uttarakhand,Nainital,237,237,0.237,16,16,0.016
+2017,Uttarakhand,Almorah,238,238,0.238,16,16,0.016
+2017,Uttarakhand,Pithorgarh,239,239,0.239,16,16,0.016
+2017,Uttarakhand,Chamoli,240,240,0.24,16,16,0.016
+2017,Uttarakhand,Uttar Kashi,241,241,0.241,16,16,0.016
+2017,Uttarakhand,Tehri Garhwal,242,242,0.242,16,16,0.016
+2017,Uttarakhand,Garhwal,243,243,0.243,16,16,0.016
+2017,Uttarakhand,Dehradun,244,244,0.244,16,16,0.016
+2017,Assam,Cachar,601,601,0.601,17,17,0.017
+2017,Assam,Darrang,602,602,0.602,17,17,0.017
+2017,Assam,Dibrugarh,603,603,0.603,17,17,0.017
+2017,Assam,Goalpara,604,604,0.604,17,17,0.017
+2017,Assam,Kamrup,605,605,0.605,17,17,0.017
+2017,Assam,Karbi Anglong,606,606,0.606,17,17,0.017
+2017,Assam,Lakhimpur,607,607,0.607,17,17,0.017
+2017,Assam,Nagaon,609,609,0.609,17,17,0.017
+2017,Himachal Pradesh,Bilashpur,626,626,0.626,18,18,0.018
+2017,Himachal Pradesh,Chamba,627,627,0.627,18,18,0.018
+2017,Himachal Pradesh,Kangra,629,629,0.629,18,18,0.018
+2017,Himachal Pradesh,Kinnaur,630,630,0.63,18,18,0.018
+2017,Himachal Pradesh,Kullu,631,631,0.631,18,18,0.018
+2017,Himachal Pradesh,Lahul & Spiti,632,632,0.632,18,18,0.018
+2017,Himachal Pradesh,Solan,633,633,0.633,18,18,0.018
+2017,Himachal Pradesh,Mandi,634,634,0.634,18,18,0.018
+2017,Himachal Pradesh,Shimla,635,635,0.635,18,18,0.018
+2017,Himachal Pradesh,Sirmaur,636,636,0.636,18,18,0.018
+2017,Kerala,Alappuzha,651,651,0.651,19,19,0.019
+2017,Kerala,Kannur,652,652,0.652,19,19,0.019
+2017,Kerala,Kottayam,655,655,0.655,19,19,0.019
+2017,Kerala,Kozhikode,656,656,0.656,19,19,0.019
+2017,Kerala,Malappuram,657,657,0.657,19,19,0.019
+2017,Kerala,Palakkad,658,658,0.658,19,19,0.019
+2017,Kerala,Kollam,659,659,0.659,19,19,0.019
+2017,Kerala,Thrissur,660,660,0.66,19,19,0.019
+2017,Kerala,Thiruvananthapuram,661,661,0.661,19,19,0.019
+2017,Bihar,Champaran,901,901,0.901,2,2,0.002
+2017,Bihar,Muzaffarpur,902,902,0.902,2,2,0.002
+2017,Bihar,Darbhanga,903,903,0.903,2,2,0.002
+2017,Bihar,Saharsa,904,904,0.904,2,2,0.002
+2017,Bihar,Saran,906,906,0.906,2,2,0.002
+2017,Bihar,Patna,907,907,0.907,2,2,0.002
+2017,Bihar,Mungair,908,908,0.908,2,2,0.002
+2017,Bihar,Bhagalpur,909,909,0.909,2,2,0.002
+2017,Bihar,Shahabad (now part of Bhojpur district),911,911,0.911,2,2,0.002
+2017,Bihar,Gaya,912,912,0.912,2,2,0.002
+2017,Jharkhand,Santhal Paragana / Dumka,910,910,0.91,15,15,0.015
+2017,Jharkhand,Hazaribagh,913,913,0.913,15,15,0.015
+2017,Jharkhand,Dhanbad,914,914,0.914,15,15,0.015
+2017,Jharkhand,Palamau,915,915,0.915,15,15,0.015
+2017,Jharkhand,Ranchi,916,916,0.916,15,15,0.015
+2017,Jharkhand,Singhbhum,917,917,0.917,15,15,0.015
