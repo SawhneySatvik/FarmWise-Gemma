@@ -52,7 +52,6 @@ The system is built around a hierarchical, agent-based AI platform that orchestr
    SECRET_KEY=your_secret_key
    JWT_SECRET_KEY=your_jwt_secret
    FLASK_ENV=development
-   GEMINI_API_KEY=your_gemini_api_key  # If using Google's Gemini API
    ```
 
 5. Initialize the database and create sample data:
@@ -142,7 +141,7 @@ python setup.py --all
 
 The system integrates with Language Learning Models for natural language processing. Currently supported:
 
-- Google's Gemini (default)
+- Any open source Model can be connected - gemma or llama
 - Support for other models can be added in the LLM service
 
 ### Knowledge Base
